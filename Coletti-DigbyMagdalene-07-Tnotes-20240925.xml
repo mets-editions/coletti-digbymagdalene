@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Coletti-DigbyMagdalene-07-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes</title><author>Coletti, Theresa</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp from="2024-01" to="2024-04">Copyedited and proofread</resp><resp from="2024-04" to="2024-04">Ensured adherence to METS Style Guide</resp><resp from="2024-01" to="2024-04">Entered corrections for digital edition</resp><resp from="2024-01" to="2024-04">Entered corrections for print edition</resp><resp from="2024-01" to="2024-04">Formatted for print edition</resp><resp from="2024-01" to="2024-04">Formatted for XML export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-03" to="2024-06">Audited documents prior to print/export</resp><resp from="2024-06" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Franke, Dan</persName><resp from="2008" to="2008">Ensured adherence to METS Style Guide</resp><resp from="2008" to="2008">Entered corrections for print edition</resp><resp from="2008" to="2008">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Harper, Alison</persName><resp from="2016-10" to="2016-10">Ensured adherence to METS Style Guide</resp><resp from="2016-10" to="2016-10">Entered corrections for print edition</resp><resp from="2016-10" to="2016-10">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Haught, Leah</persName><resp from="2008" to="2008">Ensured adherence to METS Style Guide</resp><resp from="2008" to="2008">Entered corrections for print edition</resp><resp from="2008" to="2008">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Johnson-Olin, Martha M.</persName><resp>Audited documents prior to print/export</resp><resp>Checked and corrected bibliographic references</resp><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-06" to="2024-06">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>McShane, Kara L.</persName><resp from="2013-03" to="2013-03">Ensured adherence to METS Style Guide</resp><resp from="2013-03" to="2013-03">Entered corrections for print edition</resp><resp from="2013-03" to="2013-03">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-06" to="2024-06">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2016-12" to="2016-12">Copyedited and proofread</resp><resp from="2016-12" to="2016-12">Ensured adherence to METS Style Guide</resp><resp from="2016-12" to="2016-12">Reviewed edition for consistency and audience</resp><resp from="2016-12" to="2016-12">Reviewed edition for content and scholarship</resp><resp from="2016-12" to="2016-12">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-06" to="2024-06">Audited documents prior to print/export</resp><resp from="2024-06" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2017-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2017-01" to="2017-03">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2017-01" to="2017-03">Copyedited and proofread</resp><resp from="2017-01" to="2017-03">Ensured adherence to METS Style Guide</resp><resp from="2017-01" to="2017-03">Reviewed edition for consistency and audience</resp><resp from="2017-01" to="2017-03">Wrote reader report</resp></respStmt><respStmt><persName>Zaborny, Phillip</persName><resp from="2024-05" to="2024-05">Audited documents prior to print/export</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Ralph Arbelo</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Katherine Briant</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alison Harper</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Nathan Sarr</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>R. A. Shoaf</persName><orgName>University of Florida</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><editor>Coletti, Theresa</editor><title>The Digby Mary Magdalene Play</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2018</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/coletti-digbymagdalene/blob/main/coletti-digbymagdalene-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>Encoded in HTML</change></revisionDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Coletti-DigbyMagdalene-07-Tnotes"/><div type="text">
+ <note type="tnote" n="1">1<space rend="indent1"/><hi rend="italicsmallcaps">Inperator</hi>. MS: the speaker’s name is written at the top center of the page. Appearing directly to the right of it are the initials M. B., the signature by which Myles Blomefield registered his ownership of the manuscripts of medieval drama in his possession (see <ref target="insert-internal-link" type="internal">Introduction, p. 8</ref>).</note>
+ <note type="tnote" n="2">2<space rend="indent1"/><hi rend="italic">audyens</hi>. So MS. BMH: <hi rend="italic">audyeans</hi>.</note>
+ <note type="tnote" n="3">4<space rend="indent1"/><hi rend="italic">be</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="4"><hi rend="italic"><space rend="indent1"/>world</hi>. MS: <hi rend="italic">word</hi>. So also at lines 304, s.d., 305, 380, s.d., 381, 408, s.d., hereafter silently emended.</note>
+ <note type="tnote" n="5">12<space rend="indent1"/><hi rend="italic">regeons</hi>. So MS. BMH: <hi rend="italic">regeouns</hi>.</note>
+ <note type="tnote" n="6">22<space rend="indent1"/><hi rend="italic">porchase</hi>. MS has indeterminate letter or blotted error between <hi rend="italic">c</hi> and <hi rend="italic">h</hi>.</note>
+ <note type="tnote" n="7">23<space rend="indent1"/><hi rend="italic">am</hi>. MS: written above the line.</note>
+ <note type="tnote" n="8">25<space rend="indent1"/><hi rend="italic">pesabyl</hi>. MS: <hi rend="italic">s</hi> cancelled after this word.</note>
+ <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">possessyon</hi>. So BMH. MS: <hi rend="italic">possesson</hi>. </note>
+ <note type="tnote" n="10">26<space rend="indent1"/><hi rend="italic">disobedyent</hi>. So BMH. MS: <hi rend="italic">obedyent</hi>.</note>
+ <note type="tnote" n="11">28<space rend="indent1"/><hi rend="italic">shall</hi>. MS: <hi rend="italic">xal</hi>. The scribe commonly used <hi rend="italic">x</hi> rather than the digraph <hi rend="italic">sh</hi> for [<hi rend="diacritic">ʃ</hi>]. I emend silently hereafter.</note>
+ <note type="tnote" n="12">32<space rend="indent1"/><hi rend="italic">nat</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="13">36<space rend="indent1"/><hi rend="italic">weryons</hi>. So MS. BMH: <hi rend="italic">weryouns</hi>.</note>
+ <note type="tnote" n="14">38<space rend="indent1"/><hi rend="italic">grocth</hi>. So MS, BMH. B: <hi rend="italic">grocch</hi>.</note>
+ <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">or</hi><hi rend="subscript">2</hi>. MS: altered from <hi rend="italic">on</hi>.</note>
+ <note type="tnote" n="16">40<space rend="indent1"/><hi rend="italic">swyche</hi>. MS: indeterminate letter cancelled before this word; BMH identify cancelled letter as <hi rend="italic">w</hi>.</note>
+ <note type="tnote" n="17">45<space rend="indent1"/><hi rend="italic">am I plesyd</hi>. So BMH. MS lacks the personal pronoun.</note>
+ <note type="tnote" n="18">49<space rend="indent1"/><hi rend="italic">kyngges</hi>. So BMH. MS: <hi rend="italic">kyggys</hi>.</note>
+ <note type="tnote" n="19">52<space rend="indent1"/><hi rend="italic">commaund</hi>. So BMH. MS: <hi rend="italic">commaud</hi>.</note>
+ <note type="tnote" n="20">58<space rend="indent1"/><hi rend="italic">knett</hi>. MS: Superscript <hi rend="italic">n</hi>. BMH mistakenly identify superscript <hi rend="italic">n</hi> in <hi rend="italic">knottys</hi> in this line.</note>
+ <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">caytyfys</hi>. So BMH. MS: <hi rend="italic">cayftyys</hi>.</note>
+ <note type="tnote" n="22">63<space rend="indent1"/><hi rend="italic">al</hi>. MS: written above the line.</note>
+ <note type="tnote" n="23">66<space rend="indent1"/><hi rend="italic">to me ful trew</hi>. So MS. BMH emend as <hi rend="italic">ful trew to me</hi> for the sake of rhyme.</note>
+ <note type="tnote" n="24">71<space rend="indent1"/><hi rend="italic">is</hi>. MS: written above the line.</note>
+ <note type="tnote" n="25">72<space rend="indent1"/><hi rend="italic">of beuté</hi>. So BMH. MS lacks preposition.</note>
+ <note type="tnote" n="26">78<space rend="indent1"/><hi rend="italic">Save</hi>. Written in margin where MS has cancelled <hi rend="italic">of</hi>.</note>
+ <note type="tnote" n="27">86<space rend="indent1"/><hi rend="italic">kyndnes</hi>. MS: <hi rend="italic">d</hi> written above the line.</note>
+ <note type="tnote" n="28">90<space rend="indent1"/><hi rend="italic">plesowns</hi>. So MS. BMH: <hi rend="italic">plesowans</hi>.</note>
+ <note type="tnote" n="29">93<space rend="indent1"/><hi rend="italic">Thatt</hi>. So MS. BMH: <hi rend="italic">Thou</hi>.</note>
+ <note type="tnote" n="30">96<space rend="indent1"/><hi rend="italic">Owt</hi>. MS: superscript <hi rend="italic">t</hi> here and throughout, silently emended hereafter.</note>
+ <note type="tnote" n="31">99<space rend="indent1"/><hi rend="italic">dowttyr</hi>. MS: scribe has written abbreviation <hi rend="italic">-ys</hi> instead of <hi rend="italic">-yr</hi>.</note>
+ <note type="tnote" n="32">109<space rend="indent1"/><hi rend="italic">Whan ye </hi><hi rend="italic">shal hens passe</hi>. MS: line bracketed and written to the right of lines 107 and 108.</note>
+ <note type="tnote" n="33">110<space rend="indent1"/><hi rend="italic">all</hi>. MS: <hi rend="italic">h</hi> cancelled before this word.</note>
+ <note type="tnote" n="34">113<space rend="indent1"/><hi rend="italic">Onto thes ladys of jentylnes</hi>. MS: line written to the right of line 112.</note>
+ <note type="tnote" n="35">121<space rend="indent1"/><hi rend="italic">owit</hi>. MS: <hi rend="italic">ow</hi> with superscript <hi rend="italic">t</hi>; thus emended by B. BMH: <hi rend="italic">wythowt</hi>. I have adopted Bevington’s emendation because <hi rend="italic">owit </hi><hi rend="italic">wrech</hi> (owed harm) makes grammatical sense in light of the series of “if” clauses that follow this line. Nonetheless, the line may involve some scribal error.</note>
+ <note type="tnote" n="36">125<space rend="indent1"/><hi rend="italic">in</hi>. MS: written above the line.</note>
+ <note type="tnote" n="37">133<space rend="indent1"/><hi rend="italic">Herowdys</hi>. MS: indeterminate letter cancelled between <hi rend="italic">w</hi> and <hi rend="italic">d</hi>.</note>
+ <note type="tnote" n="38">145<space rend="indent1"/><hi rend="italic">faytours</hi>. MS: <hi rend="italic">s</hi> written above the line.</note>
+ <note type="tnote" n="39">148<space rend="indent1"/><hi rend="italic">shal</hi>. MS: written above make.</note>
+ <note type="tnote" n="40">160<space rend="indent1"/><hi rend="italic">governons</hi>. So MS. BMH: <hi rend="italic">governouns</hi>.</note>
+ <note type="tnote" n="41">162<space rend="indent1"/><hi rend="italic">me</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="42">166<space rend="indent1"/><hi rend="italic">ondyrstond</hi>. MS: written as two words, with indeterminate letter cancelled between.</note>
+ <note type="tnote" n="43">175<space rend="indent1"/><hi rend="italic">in lumine tuo</hi>. So BMH. MS: <hi rend="italic">in </hi><hi rend="italic">lumine</hi>.</note>
+ <note type="tnote" n="44">176<space rend="indent1"/><hi rend="italic">splendore</hi>. So BMH. MS: <hi rend="italic">spelndore</hi>.</note>
+ <note type="tnote" n="45">179<space rend="indent1"/><hi rend="italic">me</hi>. MS: written above the line.</note>
+ <note type="tnote" n="46">184<space rend="indent1"/><hi rend="italic">sceptrum de Juda</hi>. So BMH. MS: <hi rend="italic">septrum Juda</hi>.</note>
+ <note type="tnote" n="47">185<space rend="indent1"/><hi rend="italic">qui mitendus</hi>. So BMH. MS: <hi rend="italic">imitendus</hi>.</note>
+ <note type="tnote" n="48">186<space rend="indent1"/><hi rend="italic">I</hi>. So BMH. MS: omitted.</note>
+ <note type="tnote" n="49">187<space rend="indent1"/><hi rend="italic">dastardys</hi>. MS: <hi rend="italic">dastardus</hi>.</note>
+ <note type="tnote" n="50">190<space rend="indent1"/><hi rend="italic">that</hi>. MS: written above the line.</note>
+ <note type="tnote" n="51">192<space rend="indent1"/><hi rend="italic">marryd</hi>. So BMH. MS: <hi rend="italic">marry</hi>.</note>
+ <note type="tnote" n="52">194<space rend="indent1"/><hi rend="italic">ar</hi>. MS: written above the line.</note>
+ <note type="tnote" n="53">200<space rend="indent1"/><hi rend="italic">ondyr</hi>. MS: indeterminate letter cancelled before this word.</note>
+ <note type="tnote" n="54">203<space rend="indent1"/><hi rend="italic">replycacyon</hi>. So BMH. MS: <hi rend="italic">replycayon</hi>.</note>
+ <note type="tnote" n="55">205<space rend="indent1"/><hi rend="italic">voys</hi>. MS, BMH: <hi rend="italic">woys</hi>. B emends as <hi rend="italic">woth</hi>.</note>
+ <note type="tnote" n="56">208, s.d.<space rend="indent1"/><hi rend="italic">masengyr</hi>. So BMH. MS: omitted.</note>
+ <note type="tnote" n="57">213<space rend="indent1"/><hi rend="italic">Tyberyus</hi>. The scribe frequently writes the <hi rend="italic">-us</hi> abbreviation after the letter <hi rend="italic">u</hi>, thus rendering the word <hi rend="italic">Tyberyuus</hi>. Hereafter I silently omit the redundant <hi rend="italic">u</hi>.</note>
+ <note type="tnote" n="58">218<space rend="indent1"/><hi rend="italic">Forto</hi>. So BMH. MS: <hi rend="italic">for</hi>.</note>
+ <note type="tnote" n="59">219<space rend="indent1"/><hi rend="italic">them</hi>. So BMH. MS: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="60">220<space rend="indent1"/><hi rend="italic">wythin</hi>. MS: <hi rend="italic">in</hi> inserted over caret.</note>
+ <note type="tnote" n="61">222<space rend="indent1"/><hi rend="italic">swych</hi>. Repeated in MS.</note>
+ <note type="tnote" n="62">224<space rend="indent1"/><hi rend="italic">perce</hi>. So MS. BMH: <hi rend="italic">perce them</hi>.</note>
+ <note type="tnote" n="63">225<space rend="indent1"/><hi rend="italic">wyth</hi>. The scribe probably intended <hi rend="italic">wyght</hi> (quickly), a word that appears at line 227 and whose meaning is also apt here.</note>
+ <note type="tnote" n="64">227<space rend="indent1"/><hi rend="italic">wygth</hi>. MS: <hi rend="italicstrikethrough">sond</hi> <hi rend="italic">wygth</hi>.</note>
+ <note type="tnote" n="65">229<space rend="indent1"/><hi rend="italic">rychesse</hi>. So BMH. MS: <hi rend="italic">rychsse</hi>.</note>
+ <note type="tnote" n="66">232<space rend="indent1"/><hi rend="italic">Tyberius</hi>. MS: <hi rend="italic">i</hi> added above.</note>
+ <note type="tnote" n="67">234<space rend="indent1"/><hi rend="italic">pregedyse</hi>. MS: <hi rend="italic">predy</hi> cancelled before.</note>
+ <note type="tnote" n="68">235<space rend="indent1"/><hi rend="italic">yow</hi>. MS: written above the line.</note>
+ <note type="tnote" n="69">236<space rend="indent1"/><hi rend="italic">ye</hi>. So BMH. MS: <hi rend="italic">he</hi>.</note>
+ <note type="tnote" n="70"><space rend="indent1"/><hi rend="italic">to</hi>. MS: written above the line.</note>
+ <note type="tnote" n="71">237<space rend="indent1"/><hi rend="italic">prommyssary</hi>. So BMH. MS: <hi rend="italic">prmmyssary</hi>.</note>
+ <note type="tnote" n="72"><space rend="indent1"/><hi rend="italic">and</hi>. MS: <hi rend="italic">ss</hi> cancelled after this word. B: <hi rend="italic">ser</hi>.</note>
+ <note type="tnote" n="73"><space rend="indent1"/><hi rend="italic">presedent</hi>. So BMH. MS: <hi rend="italic">presdent</hi>.</note>
+ <note type="tnote" n="74">238<space rend="indent1"/><hi rend="italic">inperrowpent</hi>. So BMH. MS: <hi rend="italic">inper rowpent</hi>. This word exemplifies an obscurity that editors have struggled to explain. My gloss follows BMH, p. 200.</note>
+ <note type="tnote" n="75">240<space rend="indent1"/><hi rend="italic">what</hi>. MS: <hi rend="italic">qwat</hi>. I silently emend hereafter.</note>
+ <note type="tnote" n="76"><space rend="indent1"/><hi rend="italic">seye</hi>. So BMH. MS: <hi rend="italic">sye</hi>.</note>
+ <note type="tnote" n="77">248, s.d.<space rend="indent1"/><hi rend="italic">Her</hi>. MS: <hi rend="italic">y</hi> cancelled after. Stage directions are written in red from this point to the end of the play.</note>
+ <note type="tnote" n="78">280<space rend="indent1"/><hi rend="italic">this</hi>. So BMH. MS: <hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="79">282<space rend="indent1"/><hi rend="italic">God</hi>. MS: <hi rend="italic">me</hi> cancelled after.</note>
+ <note type="tnote" n="80">288<space rend="indent1"/><hi rend="italic">bryng</hi>. So BMH. MS: <hi rend="italic">bryg</hi>.</note>
+ <note type="tnote" n="81">292<space rend="indent1"/><hi rend="italic">lyf I</hi>. MS: <hi rend="italic">lyf y</hi>. B omits personal pronoun.</note>
+ <note type="tnote" n="82">298<space rend="indent1"/><hi rend="italic">exprese</hi>. MS: written in right margin; <hi rend="italic">fulfylle</hi> cancelled before.</note>
+ <note type="tnote" n="83">303<space rend="indent1"/><hi rend="italic">systyr</hi>. So BMH. MS: <hi rend="italic">systyrs</hi>.</note>
+ <note type="tnote" n="84">305<space rend="indent1"/><hi rend="italic">evyr</hi>. MS: <hi rend="italic">b</hi> cancelled after this word.</note>
+ <note type="tnote" n="85">315<space rend="indent1"/><hi rend="italic">perteynyng</hi>. So BMH. MS: altered from <hi rend="italic">perteynyt</hi>.</note>
+ <note type="tnote" n="86">316<space rend="indent1"/><hi rend="italic">mone</hi>. MS: <hi rend="italic">sonne</hi> cancelled before.</note>
+ <note type="tnote" n="87">327<space rend="indent1"/><hi rend="italic">dwellyn</hi>. So BMH, silently emended. MS: <hi rend="italic">dwellyng</hi>. B: <hi rend="italic">be dwellyng</hi>.</note>
+ <note type="tnote" n="88">333, s.d.<space rend="indent1"/><hi rend="italic">Kyng</hi>. So MS. BMH: <hi rend="italic">Kynge</hi>.</note>
+ <note type="tnote" n="89"><space rend="indent1"/><hi rend="italic">Lechery</hi>. MS: written above the line at the right margin.</note>
+ <note type="tnote" n="90">358<space rend="indent1"/><hi rend="italic">pyrles</hi><hi rend="italic">, prykkyd</hi>. So MS. B: <hi rend="italic">pirked, prikkyd</hi>.</note>
+ <note type="tnote" n="91">359<space rend="indent1"/><hi rend="italic">yower</hi>. So BMH. MS: <hi rend="italic">ower</hi>.</note>
+ <note type="tnote" n="92">362<space rend="indent1"/><hi rend="italic">and</hi>. So BMH. MS: omitted.</note>
+ <note type="tnote" n="93">365<space rend="indent1"/><hi rend="italic">wyth</hi>. So BMH, B. Omitted in MS.</note>
+ <note type="tnote" n="94"><space rend="indent1"/><hi rend="italic">may</hi>. MS: <hi rend="italic">d</hi> cancelled before this word.</note>
+ <note type="tnote" n="95">387<space rend="indent1"/><hi rend="italic">asemlanus</hi>. So MS. BMH: <hi rend="italic">asemlaunvs</hi>.</note>
+ <note type="tnote" n="96">389<space rend="indent1"/><hi rend="italic">Thys tyde</hi>. MS: line bracketed and written to the right of line 387.</note>
+ <note type="tnote" n="97">393<space rend="indent1"/><hi rend="italic">Com as fast as he may</hi><hi rend="italic"> ryde</hi>. MS: line bracketed and written to the right of lines 390 and 391.</note>
+ <note type="tnote" n="98">395<space rend="indent1"/><hi rend="italic">masege</hi>. MS: <hi rend="italic">ge</hi> written above the line.</note>
+ <note type="tnote" n="99">402<space rend="indent1"/><hi rend="italic">yow</hi>. MS: written above line.</note>
+ <note type="tnote" n="100">404<space rend="indent1"/><hi rend="italic">counseyl</hi>. BMH observe that the scribe used the incorrect abbreviation <hi rend="italic">yr</hi> for the elided nasal. Similar substitutions occur in the spelling of <hi rend="italic">counsell</hi> at lines 412, 421, and 436.</note>
+ <note type="tnote" n="101"><space rend="indent1"/><hi rend="italic">for</hi>. So BMH. MS: <hi rend="italic">fo</hi>.</note>
+ <note type="tnote" n="102">405<space rend="indent1"/><hi rend="italic">where</hi>. So BMH. MS: <hi rend="italic">whre</hi>.</note>
+ <note type="tnote" n="103">410<space rend="indent1"/><hi rend="italic">ye</hi>. MS: <hi rend="italic">send</hi> cancelled after.</note>
+ <note type="tnote" n="104">417<space rend="indent1"/><hi rend="italic">Of that castel beryt</hi><hi rend="italic"> the pryse</hi>. MS: line bracketed and written to the right of lines 415 and 416.</note>
+ <note type="tnote" n="105">421<space rend="indent1"/><hi rend="italic">But yf your counseyll</hi><hi rend="italic"> may othyrwyse devyse</hi>. MS: line bracketed and written to the right of lines 418–20.</note>
+ <note type="tnote" n="106">422<space rend="indent1"/><hi rend="italic">ye</hi>. MS: superscript <hi rend="italic">e</hi>.</note>
+ <note type="tnote" n="107">431<space rend="indent1"/>Speaker’s rubric (<hi rend="italic">Satan</hi>) repeated at the top of fol. 104v.</note>
+ <note type="tnote" n="108">436<space rend="indent1"/><hi rend="italic">Syrrys</hi>. So BMH. MS: <hi rend="italic">Syrrus</hi>. <hi rend="italic">r</hi><hi rend="subscript">1</hi> is a superscript.</note>
+ <note type="tnote" n="109">439, s.d.<space rend="indent1"/><hi rend="italic">Mary</hi>. So BMH. MS: omitted.</note>
+ <note type="tnote" n="110">447<space rend="indent1"/><hi rend="italic">debonarius</hi>. MS: <hi rend="italic">debonariuus</hi>. Letters <hi rend="italic">iu</hi> written above the line, not <hi rend="italic">ius</hi> noted by BMH.</note>
+ <note type="tnote" n="111">449<space rend="indent1"/><hi rend="italic">receyve</hi>. MS: <hi rend="italic">ve</hi> written above the line.</note>
+ <note type="tnote" n="112">459<space rend="indent1"/><hi rend="italic">yow</hi>. MS: <hi rend="italic">yow</hi> <hi rend="italicstrikethrough">yow</hi>. Repeated <hi rend="italic">yow</hi> cancelled after this word.</note>
+ <note type="tnote" n="113"><space rend="indent1"/><hi rend="italic">sportys</hi>. MS: <hi rend="italic">d</hi> cancelled before this word.</note>
+ <note type="tnote" n="114">465<space rend="indent1"/><hi rend="italic">betake</hi>. So MS, B. BMH: <hi rend="italic">beteche</hi>.</note>
+ <note type="tnote" n="115">469, s.d.<space rend="indent1"/><hi rend="italic">seyyng</hi>. So BMH. MS: <hi rend="italic">seyyg</hi>.</note>
+ <note type="tnote" n="116">475<space rend="indent1"/><hi rend="italic">is</hi>. So BMH. MS: omitted.</note>
+ <note type="tnote" n="117">478<space rend="indent1"/><hi rend="italic">Grome</hi>. So MS, B. BMH: <hi rend="italic">Groine</hi>.</note>
+ <note type="tnote" n="118">480<space rend="indent1"/><hi rend="italic">bettyr</hi>. So BMH. MS: <hi rend="italic">berttyr</hi>.</note>
+ <note type="tnote" n="119">490, s.d.<space rend="indent1"/><hi rend="italic">galaunt</hi>. MS: <hi rend="italic">of</hi> cancelled after this word.</note>
+ <note type="tnote" n="120">493<space rend="indent1"/><hi rend="italic">What</hi>. MS: written above cancelled <hi rend="italic">w</hi>.</note>
+ <note type="tnote" n="121"><space rend="indent1"/><hi rend="italic">Wene</hi>. MS: possibly <hi rend="italic">mene</hi>. BMH: <hi rend="italic">mene</hi>.</note>
+ <note type="tnote" n="122"><space rend="indent1"/><hi rend="italic">marchant</hi>. MS: <hi rend="italic">galaunt</hi> cancelled before.</note>
+ <note type="tnote" n="123">495<space rend="indent1"/><hi rend="italic">sum</hi>. MS: written above the line.</note>
+ <note type="tnote" n="124">501<space rend="indent1"/><hi rend="italic">somyr</hi>. MS: <hi rend="italic">wyn</hi> cancelled before.</note>
+ <note type="tnote" n="125">508<space rend="indent1"/><hi rend="italic">in</hi>. MS: <hi rend="italic">i</hi>.</note>
+ <note type="tnote" n="126">514<space rend="indent1"/><hi rend="italic">drynk</hi>. So BMH. MS: <hi rend="italic">dryng</hi>.</note>
+ <note type="tnote" n="127">515<space rend="indent1"/><hi rend="italicsmallcaps">Coryosté</hi>. MS: repeated at top of fol. 107v as <hi rend="italicsmallcaps">Coriosté</hi>.</note>
+ <note type="tnote" n="128">525<space rend="indent1"/><hi rend="italic">womanly</hi>. MS: <hi rend="italic">m</hi> written over <hi rend="italic">l</hi>, but cancellation noted by BMH may be the nasal abbreviation.</note>
+ <note type="tnote" n="129">531<space rend="indent1"/><hi rend="italicsmallcaps">Mary Maudleyn</hi>. MS: <hi rend="italic">Coriosté</hi> cancelled before speech marker.</note>
+ <note type="tnote" n="130">535<space rend="indent1"/><hi rend="italic">sen</hi>. MS: <hi rend="italic">seyn</hi> cancelled before.</note>
+ <note type="tnote" n="131">536<space rend="indent1"/><hi rend="italic">love ye</hi>. So MS, B. BMH: <hi rend="italic">love ye thos</hi>.</note>
+ <note type="tnote" n="132">538<space rend="indent1"/><hi rend="italic">am</hi>. MS: written above the line.</note>
+ <note type="tnote" n="133">539<space rend="indent1"/><hi rend="italic">My love in </hi><hi rend="italic">yow gynnyt to close</hi>. MS: line bracketed and written to the right of lines 537 and 538.</note>
+ <note type="tnote" n="134">546<space rend="indent1"/><hi rend="italic">To dye </hi><hi rend="italic">for your sake</hi>. MS: line bracketed and written to the right of lines 544 and 545.</note>
+ <note type="tnote" n="135">563<space rend="indent1"/><hi rend="italic">semlyest</hi>. So BMH. MS: <hi rend="italic">semyest</hi>.</note>
+ <note type="tnote" n="136">585<space rend="indent1"/><hi rend="italic">nere</hi>. MS: <hi rend="italic">nye</hi> cancelled before.</note>
+ <note type="tnote" n="137">589<space rend="indent1"/><hi rend="italic">wol</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="138">590<space rend="indent1"/><hi rend="italic">veryabyll</hi>. MS: <hi rend="italic">a</hi> added above.</note>
+ <note type="tnote" n="139">593<space rend="indent1"/><hi rend="italic">lust</hi>. So BMH. MS: <hi rend="italic">lost</hi>.</note>
+ <note type="tnote" n="140">597<space rend="indent1"/><hi rend="italic">in</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="141">600<space rend="indent1"/><hi rend="italic">mercy</hi>. MS: <hi rend="italic">ye</hi> cancelled before.</note>
+ <note type="tnote" n="142">614, s.d.<space rend="indent1"/><hi rend="italic">Leprus</hi>. MS: written below the line in the right margin.</note>
+ <note type="tnote" n="143">622<space rend="indent1"/><hi rend="italic">wythinne</hi>. MS: <hi rend="italic">ne</hi> inserted above the line.</note>
+ <note type="tnote" n="144">630<space rend="indent1"/><hi rend="italic">syt</hi>. MS: altered from <hi rend="italic">set</hi>.</note>
+ <note type="tnote" n="145">637<space rend="indent1"/><hi rend="italic">hope is </hi><hi rend="italic">perhenuall</hi>. So BMH. MS: <hi rend="italic">hope perhenuall</hi>.</note>
+ <note type="tnote" n="146">640, s.d.<space rend="indent1"/><hi rend="italic">Jhesus </hi><hi rend="italic">dicit</hi>. MS: repeated at top of fol. 109v.</note>
+ <note type="tnote" n="147">642<space rend="indent1"/><hi rend="italic">repast</hi>. So BMH. MS: <hi rend="italic">rpast</hi>.</note>
+ <note type="tnote" n="148">650<space rend="indent1"/><hi rend="italic">well</hi>. So BMH. MS: <hi rend="italic">woll</hi>.</note>
+ <note type="tnote" n="149">658<space rend="indent1"/><hi rend="italic">man</hi>. MS: written below the line at the right margin.</note>
+ <note type="tnote" n="150">659<space rend="indent1"/><hi rend="italic">Symond</hi>. MS: <hi rend="italic">Jhesus</hi> cancelled before.</note>
+ <note type="tnote" n="151">662<space rend="indent1"/><hi rend="italic">quesson</hi>. So MS. BMH: <hi rend="italic">quessyon</hi>.</note>
+ <note type="tnote" n="152">665<space rend="indent1"/><hi rend="italic">al</hi>. So MS. BMH: <hi rend="italic">all</hi>.</note>
+ <note type="tnote" n="153">670<space rend="indent1"/><hi rend="italic">entent</hi>. MS: <hi rend="italic">in</hi> before this word.</note>
+ <note type="tnote" n="154">674<space rend="indent1"/><hi rend="italic">conscyens</hi>. MS: <hi rend="italic">e</hi> added above.</note>
+ <note type="tnote" n="155">676<space rend="indent1"/><hi rend="italic">wrecchednesse</hi>. So MS. BMH note alteration of <hi rend="italic">e</hi> to <hi rend="italic">ss</hi>.</note>
+ <note type="tnote" n="156">684<space rend="indent1"/><hi rend="italic">wyl</hi>. So MS. BMH: <hi rend="italic">wyll</hi>.</note>
+ <note type="tnote" n="157">686<space rend="indent1"/><hi rend="italic">contrysson</hi>. So MS. BMH: <hi rend="italic">contryssyon</hi>.</note>
+ <note type="tnote" n="158">689<space rend="indent1"/><hi rend="italic">porchasyd</hi>. MS: <hi rend="italic">l</hi> cancelled before this word.</note>
+ <note type="tnote" n="159">693<space rend="indent1"/><hi rend="italic">tyme</hi>. MS: <hi rend="italic">my</hi> cancelled before.</note>
+ <note type="tnote" n="160">694<space rend="indent1"/><hi rend="italic">dred</hi>. MS: written below the line at the right margin.</note>
+ <note type="tnote" n="161">695<space rend="indent1"/><hi rend="italic">thi</hi>. MS: <hi rend="italic">I was</hi> cancelled before.</note>
+ <note type="tnote" n="162">701<space rend="indent1"/><hi rend="italic">contrysson</hi>. So MS. BMH: <hi rend="italic">contryssyon</hi>.</note>
+ <note type="tnote" n="163">705<space rend="indent1"/><hi rend="italic">omnipotency</hi>. So BMH. MS: <hi rend="italic">omipotency</hi>.</note>
+ <note type="tnote" n="164">706<space rend="indent1"/><hi rend="italic">governons</hi>. So MS. BMH: <hi rend="italic">governouns</hi>.</note>
+ <note type="tnote" n="165">708<space rend="indent1"/><hi rend="italic">devyn</hi>. MS: <hi rend="italic">dey</hi> cancelled before.</note>
+ <note type="tnote" n="166">709<space rend="indent1"/><hi rend="italic">And</hi>. MS: <hi rend="italic">ad</hi> cancelled before this word.</note>
+ <note type="tnote" n="167">723<space rend="indent1"/><hi rend="italic">to</hi>. MS: inserted above line.</note>
+ <note type="tnote" n="168">725, s.d.<space rend="indent1"/><hi rend="italic">dyvllys</hi>. MS: <hi rend="italic">v</hi> written above.</note>
+ <note type="tnote" n="169">727<space rend="indent1"/><hi rend="italicsmallcaps">Tercius</hi>. So MS. BMH silently emend: <hi rend="italic">Rex</hi>.</note>
+ <note type="tnote" n="170">728<space rend="indent1"/><hi rend="italic">judycyal-lyke</hi>. MS: <hi rend="italic">d</hi> cancelled before this word.</note>
+ <note type="tnote" n="171">731<space rend="indent1"/><hi rend="italicsmallcaps">Primus</hi>. So MS. BMH silently emend: <hi rend="italic">Rex</hi>. Also at lines 735, 740, and 744.</note>
+ <note type="tnote" n="172">736<space rend="indent1"/><hi rend="italic">wreke</hi>. So BMH. MS: <hi rend="italic">wroke</hi>.</note>
+ <note type="tnote" n="173">738<space rend="indent1"/><hi rend="italic">hym</hi>. MS: <hi rend="italic">y</hi> altered from <hi rend="italic">e</hi>.</note>
+ <note type="tnote" n="174">739, s.d.<space rend="indent1"/><hi rend="italic">serve</hi>. MS and BMH: <hi rend="italic">serva</hi>.</note>
+ <note type="tnote" n="175">741<space rend="indent1"/><hi rend="italic">lordeynnys</hi>. MS: <hi rend="italic">the</hi> cancelled before.</note>
+ <note type="tnote" n="176">744<space rend="indent1"/><hi rend="italic">fals</hi>. So BMH. MS: <hi rend="italic">ffals</hi> written below the line.</note>
+ <note type="tnote" n="177">754<space rend="indent1"/><hi rend="italic">deversarye</hi>. MS: <hi rend="italic">de</hi> added above the line.</note>
+ <note type="tnote" n="178">768<space rend="indent1"/><hi rend="italicsmallcaps">Mary Maudleyn</hi>. MS: <hi rend="italic">Mary M</hi> <hi rend="italicstrikethrough">Mary M</hi>. Repeated <hi rend="italic">Mary</hi><hi rend="italic"> M</hi> cancelled. BMH emend silently as <hi rend="italic">Magdalen</hi>; also at lines 784, 815, 824, 834, 889, 894.</note>
+ <note type="tnote" n="179">787<space rend="indent1"/><hi rend="italic">gete</hi>. MS: written above the line.</note>
+ <note type="tnote" n="180">791<space rend="indent1"/><hi rend="italic">prophet</hi>. So BMH. MS: <hi rend="italic">prophe</hi>.</note>
+ <note type="tnote" n="181"><space rend="indent1"/><hi rend="italic">hatt</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="182">793<space rend="indent1"/><hi rend="italic">yower</hi>. So BMH. MS: <hi rend="italic">yow</hi>.</note>
+ <note type="tnote" n="183">803<space rend="indent1"/><hi rend="italic">impossyble</hi>. So BMH. MS: <hi rend="italic">inpossible</hi>.</note>
+ <note type="tnote" n="184">815<space rend="indent1"/><hi rend="italic">Lord</hi>. MS: <hi rend="italic">c</hi> cancelled before this word.</note>
+ <note type="tnote" n="185">817<space rend="indent1"/><hi rend="italic">weyys</hi>. MS: <hi rend="italic">e</hi> inserted above.</note>
+ <note type="tnote" n="186">823, s.d.<space rend="indent1"/><hi rend="italic">Mortuus</hi>. So BMH. MS: <hi rend="italic">mortuis</hi>. This is one of a few stage directions written in the right margin.</note>
+ <note type="tnote" n="187">831<space rend="indent1"/><hi rend="italic">drewyn</hi>. It is unclear if this <hi rend="italic">w</hi> is orthographically the same as <hi rend="italic">v</hi>, the option B chooses. In either case there is little difference between being <hi rend="italic">drewyn</hi> (drawn) and <hi rend="italic">drevyn</hi> (driven) down by death.</note>
+ <note type="tnote" n="188">836<space rend="indent1"/><hi rend="italic">be</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="189">845, s.d.<space rend="indent1"/><hi rend="italic">Lay him in</hi>. MS: written in right margin.</note>
+ <note type="tnote" n="190">846<space rend="indent1"/><hi rend="italic">cogynysson</hi>. So MS. BMH: <hi rend="italic">cognyssyon</hi>.</note>
+ <note type="tnote" n="191">851<space rend="indent1"/><hi rend="italic">chyldyurn</hi>. So BMH. B: <hi rend="italic">childyrne</hi>. MS: <hi rend="italic">chyldynre</hi>.</note>
+ <note type="tnote" n="192">853<space rend="indent1"/><hi rend="italicsmallcaps">Dissipulus</hi>. So MS. BMH: <hi rend="italic">Dissipulys</hi>.</note>
+ <note type="tnote" n="193"><space rend="indent1"/><hi rend="italic">volunté</hi>. MS: <hi rend="italic">w</hi> cancelled before this word.</note>
+ <note type="tnote" n="194">865<space rend="indent1"/><hi rend="italic">I</hi>. So MS, BMH. B: omits.</note>
+ <note type="tnote" n="195">867<space rend="indent1"/><hi rend="italic">Wherfor</hi>. So BMH. MS: <hi rend="italic">whefor</hi>.</note>
+ <note type="tnote" n="196">868, s.d.<space rend="indent1"/>The scribe has squeezed the stage direction between lines 868 and 869.</note>
+ <note type="tnote" n="197">876<space rend="indent1"/><hi rend="italic">thysse</hi>. MS: written below the line at right margin.</note>
+ <note type="tnote" n="198">888<space rend="indent1"/><hi rend="italic">from</hi>. MS: <hi rend="italic">fro</hi> cancelled before.</note>
+ <note type="tnote" n="199">889<space rend="indent1"/><hi rend="italic">rythewys</hi>. MS: <hi rend="italic">thow</hi> cancelled before.</note>
+ <note type="tnote" n="200"><space rend="indent1"/><hi rend="italic">equité</hi>. MS: written below the line at right margin.</note>
+ <note type="tnote" n="201">891<space rend="indent1"/><hi rend="italic">be</hi>. MS: written below the line at right margin.</note>
+ <note type="tnote" n="202">892<space rend="indent1"/><hi rend="italic">Good</hi>. MS: <hi rend="italic">o</hi> inserted above word.</note>
+ <note type="tnote" n="203">894<space rend="indent1"/><hi rend="italic">monument</hi>. So BMH. MS: <hi rend="italic">moment</hi>.</note>
+ <note type="tnote" n="204">895<space rend="indent1"/><hi rend="italic">that</hi>. MS: <hi rend="italic">that</hi> and another indeterminate letter cancelled before; BMH identify cancelled letter as <hi rend="italic">o</hi>.</note>
+ <note type="tnote" n="205"><space rend="indent1"/><hi rend="italic">ye</hi>. MS: <hi rend="italic">the</hi> cancelled before.</note>
+ <note type="tnote" n="206">900<space rend="indent1"/><hi rend="italic">remeve</hi>. MS: <hi rend="italic">remembyr</hi> cancelled before.</note>
+ <note type="tnote" n="207">902, s.d.<space rend="indent1"/>The scribe has again squeezed the stage direction between two lines of the spoken text.</note>
+ <note type="tnote" n="208">904<space rend="indent1"/><hi rend="italic">glory</hi>. MS: written below the line.</note>
+ <note type="tnote" n="209">909<space rend="indent1"/><hi rend="italic">me</hi>. MS: inserted over caret. Ink is badly smudged at the beginning of this line.</note>
+ <note type="tnote" n="210">912<space rend="indent1"/><hi rend="italic">wondyre</hi>. MS: <hi rend="italic">b</hi> cancelled between <hi rend="italic">n</hi> and <hi rend="italic">d</hi>.</note>
+ <note type="tnote" n="211">913<space rend="indent1"/><hi rend="italic">nothyng</hi>. So BMH. MS: <hi rend="italic">nothyg</hi>.</note>
+ <note type="tnote" n="212">916<space rend="indent1"/><hi rend="italic">away</hi>. MS: <hi rend="italic">was</hi> cancelled between <hi rend="italic">a</hi> and <hi rend="italic">w</hi>.</note>
+ <note type="tnote" n="213">921<space rend="indent1"/><hi rend="italic">yower</hi>. MS: <hi rend="italic">ower</hi> cancelled before.</note>
+ <note type="tnote" n="214">928<space rend="indent1"/><hi rend="italic">Obedyenly</hi>. MS: <hi rend="italic">Why lowt ye natt lo</hi> cancelled before.</note>
+ <note type="tnote" n="215">937<space rend="indent1"/><hi rend="italic">the</hi>. MS: <hi rend="italic">y</hi> cancelled before this word.</note>
+ <note type="tnote" n="216"><space rend="indent1"/><hi rend="italic">so bold</hi>. MS: written below the line at the right margin.</note>
+ <note type="tnote" n="217">944<space rend="indent1"/><hi rend="italic">losty</hi>. So MS. BMH indicate here possibility of <hi rend="italic">lofty</hi>.</note>
+ <note type="tnote" n="218"><space rend="indent1"/><hi rend="italic">lyon</hi>. MS: written below line at the right margin.</note>
+ <note type="tnote" n="219">949<space rend="indent1"/><hi rend="italic">O, my blysse, in beuteus bryght</hi>. MS: line written to the right of lines 946–48.</note>
+ <note type="tnote" n="220">957<space rend="indent1"/><hi rend="italic">plesant</hi>. MS: <hi rend="italic">pleȝ</hi><hi rend="italic">ant</hi>. Here and elsewhere for the s the scribe has written the <hi rend="italic">yogh</hi> for intervocalic <hi rend="italic">s</hi> (/<hi rend="italic">z</hi>/) . See also lines 1304, 1490, 1503, 1505, 1513, 1519, 1539, 1547, 1585, 1689.</note>
+ <note type="tnote" n="221">959<space rend="indent1"/><hi rend="italic">ruby</hi>. So BMH. MS: <hi rend="italic">rubu</hi>.</note>
+ <note type="tnote" n="222">960<space rend="indent1"/><hi rend="italic">plesaunt</hi>. So BMH. MS: <hi rend="italic">pleaunt</hi>.</note>
+ <note type="tnote" n="223"><space rend="indent1"/><hi rend="italic">my</hi>. MS: <hi rend="italic">l</hi> before, incorrectly cited by BMH as cancelled.</note>
+ <note type="tnote" n="224">962, s.d.<space rend="indent1"/><hi rend="italic">a dylle</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="225">963<space rend="indent1"/><hi rend="italic">yelle</hi>. MS: <hi rend="italic">e</hi> cancelled before this word.</note>
+ <note type="tnote" n="226">966<space rend="indent1"/><hi rend="italic">brasse</hi>. MS: written below the line at the right margin.</note>
+ <note type="tnote" n="227">967<space rend="indent1"/><hi rend="italic">blase</hi>. MS: written below the line at the right margin.</note>
+ <note type="tnote" n="228">968<space rend="indent1"/><hi rend="italic">asondyr</hi>. MS: letter <hi rend="italic">y</hi> altered from <hi rend="italic">e</hi> or vice versa.</note>
+ <note type="tnote" n="229">972<space rend="indent1"/><hi rend="italic">passon</hi>. So MS. BMH silently emend: <hi rend="italic">passyon</hi>.</note>
+ <note type="tnote" n="230">973<space rend="indent1"/><hi rend="italic">On</hi>. So BMH. MS: <hi rend="italic">O</hi>.</note>
+ <note type="tnote" n="231">979<space rend="indent1"/><hi rend="italic">wrowth</hi>. MS: written above cancelled <hi rend="italic">wethe</hi>.</note>
+ <note type="tnote" n="232">983<space rend="indent1"/><hi rend="italic">atrey</hi>. MS: indeterminate letter cancelled between <hi rend="italic">a</hi> and <hi rend="italic">t</hi>.</note>
+ <note type="tnote" n="233">985<space rend="indent1"/><hi rend="italic">Yet</hi>. So BMH. MS: <hi rend="italic">ye</hi>.</note>
+ <note type="tnote" n="234"><space rend="indent1"/><hi rend="italic">eye</hi>. MS: <hi rend="italic">ye</hi> cancelled before.</note>
+ <note type="tnote" n="235">986<space rend="indent1"/><hi rend="italic">everychon</hi>. MS: written below the line at the right margin.</note>
+ <note type="tnote" n="236">992<space rend="indent1"/><hi rend="italic">in</hi><hi rend="italic"> fine</hi>. So MS. BMH note that the abbreviation employed here could also mean <hi rend="italic">in sum</hi>, the option they and B choose. But <hi rend="italic">in fine</hi> better comports with the idiom and meaning of the devil’s speech.</note>
+ <note type="tnote" n="237">992, s.d.<space rend="indent1"/><hi rend="italic">passon</hi>. So MS. BMH: <hi rend="italic">passyon</hi>.</note>
+ <note type="tnote" n="238"><space rend="indent1"/><hi rend="italic">upon</hi>. So MS. BMH: <hi rend="italic">ypon</hi>.</note>
+ <note type="tnote" n="239"><hi rend="italic"><space rend="indent1"/>Mawdlyn</hi>. So MS. BMH: <hi rend="italic">Mawdleyn</hi>. My examination of the manuscript concurs with BMH’s observation that the “red line drawn through [the] first line of directions” was “apparently” not intended to cancel it. This line resembles other red lines drawn at the tops of pages to mark the upper margin (e.g., see folios 119r and 121v). The scribe appears, however, to have written the first line of the stage direction over the red line, not the reverse as suggested by BMH.</note>
+ <note type="tnote" n="240">997<space rend="indent1"/><hi rend="italicsmallcaps">Mary Jacobe</hi>. So BMH, expanding silently here and elsewhere. MS: <hi rend="italic">M Jacobe</hi>.</note>
+ <note type="tnote" n="241">998<space rend="indent1"/><hi rend="italic">Jewys</hi>. MS, BMH: <hi rend="italic">jevys</hi>. Inserted above the line.</note>
+ <note type="tnote" n="242">1001<space rend="indent1"/><hi rend="italicsmallcaps">Mary Salome</hi>. So BMH, expanding silently here and elsewhere. MS: <hi rend="italic">M Salome</hi>.</note>
+ <note type="tnote" n="243"><space rend="indent1"/><hi rend="italic">intollerabyll</hi>. So BMH. MS: <hi rend="italic">s</hi> cancelled after this word.</note>
+ <note type="tnote" n="244">1003<space rend="indent1"/><hi rend="italic">haddyst</hi>. MS: <hi rend="italic">hast</hi> cancelled before.</note>
+ <note type="tnote" n="245">1004<space rend="indent1"/><hi rend="italic">is</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="246">1004, s.d.<space rend="indent1"/><hi rend="italic">folowyng</hi>. MS: <hi rend="italic">yng</hi> inserted above the line.</note>
+ <note type="tnote" n="247"><space rend="indent1"/>The speech marker <hi rend="italic">M Maudleyn</hi> is cancelled in the right margin. I adopt at line 1005 the emended speech marker of BMH, which calls for all three Marys to speak.</note>
+ <note type="tnote" n="248">1007<space rend="indent1"/><hi rend="italic">Mannys sowle to bye from all thraldam</hi>. So MS. BMH emend for consistency of rhyme: <hi rend="italic">Mannys sowle from all thraldam </hi><hi rend="italic">to bye</hi>.</note>
+ <note type="tnote" n="249">1008<space rend="indent1"/><hi rend="italic">in</hi>. MS: <hi rend="italic">shold a be</hi> cancelled after. BMH: <hi rend="italic">in peyne shold a be boun</hi>.</note>
+ <note type="tnote" n="250">1011<space rend="indent1"/><hi rend="italicsmallcaps">Mary Maudleyn</hi>. MS: <hi rend="italic">M Magdleyn</hi>. BMH expand silently here and at lines 1031, 1055, 1059, 1063, 1070, 1078, s.d. 1095, etc.</note>
+ <note type="tnote" n="251">1015<space rend="indent1"/><hi rend="italicsmallcaps">Mary Jacobe</hi>. MS: Speaker’s rubric omitted here. I concur with the logic of BMH’s emendation, which is based on the three Marys sequenced responses at this moment in the play. The red lines that precede and follow the speech at lines 1015–18 appear regularly in the manuscript to divide speeches by different speakers. B does not note a change of speaker here.</note>
+ <note type="tnote" n="252">1017<space rend="indent1"/><hi rend="italic">mynd</hi>. So BMH. MS: <hi rend="italic">myd</hi>.</note>
+ <note type="tnote" n="253">1019<space rend="indent1"/><hi rend="italic">boundys</hi>. MS: <hi rend="italic">v</hi> cancelled before this word.</note>
+ <note type="tnote" n="254">1022, s.d.<space rend="indent1"/><hi rend="italic">angelys</hi>. MS: <hi rend="italic">angelus</hi>. BMH observe the scribe’s erroneous abbreviation. The scribe has clearly employed the same -us abbreviation that we see in the speakers’ rubrics at lines 1023 and 1027 and in <hi rend="italic">gracyus</hi> at line 1016 and <hi rend="italic">precyus</hi> at line 1018. A comparison with the final words in these lines (<hi rend="italic">wound[ys]</hi> and <hi rend="italic">stoundd[ys]</hi>, respectively) illustrates the scribe’s distinction between <hi rend="italic">-us</hi> and <hi rend="italic">-</hi><hi rend="italic">ys</hi>. The correct form in the stage direction would produce the plural <hi rend="italic">angel[ys]</hi>. Elsewhere the scribe confuses <hi rend="italic">angelus</hi> and <hi rend="italic">angelys</hi>; for example, see line 2066 and 2077.</note>
+ <note type="tnote" n="255">1023<space rend="indent1"/><hi rend="italicsmallcaps">Angelus</hi>. So MS. BMH: <hi rend="italic">Primus Angelus</hi>.</note>
+ <note type="tnote" n="256">1026<space rend="indent1"/><hi rend="italic">Go</hi>. MS: written above cancelled <hi rend="italic">go</hi>.</note>
+ <note type="tnote" n="257">1039<space rend="indent1"/><hi rend="italic">inward</hi>. MS, BMH: <hi rend="italic">invard</hi>.</note>
+ <note type="tnote" n="258">1046, s.d.<space rend="indent1"/><hi rend="italic">Here</hi>. So BMH. MS: <hi rend="italic">how</hi>.</note>
+ <note type="tnote" n="259">1047<space rend="indent1"/><hi rend="italicsmallcaps">[Petyr]</hi>. The MS identifies no speaker here. BMH and B emend.</note>
+ <note type="tnote" n="260">1053<space rend="indent1"/><hi rend="italic">seyd</hi>. MS: <hi rend="italic">d</hi> written above word.</note>
+ <note type="tnote" n="261"><space rend="indent1"/><hi rend="italic">resurrexon</hi>. So MS. BMH: <hi rend="italic">resurrexyon</hi>.</note>
+ <note type="tnote" n="262">1054<space rend="indent1"/>MS: speaker’s rubric <hi rend="italic">Jhon</hi> repeated here at top of fol. 119v.</note>
+ <note type="tnote" n="263">1056<space rend="indent1"/><hi rend="italic">and</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="264">1058<space rend="indent1"/><hi rend="italic">Wom sekest</hi>. MS: indeterminate letters inserted above the line, and cancelled, between these words; BMH identify cancelled letters as <hi rend="italic">st</hi>.</note>
+ <note type="tnote" n="265">1060, s.d.<space rend="indent1"/><hi rend="italic">Hic aparuit Jhesus</hi>. MS: written in right margin.</note>
+ <note type="tnote" n="266">1068<space rend="indent1"/><hi rend="italic">I</hi>. MS: inserted above the line.</note>
+ <note type="tnote" n="267">1077<space rend="indent1"/><hi rend="italic">hevnly</hi>. So BMH. MS: <hi rend="italic">hevly</hi>.</note>
+ <note type="tnote" n="268">1078<space rend="indent1"/><hi rend="italic">fyrst</hi>. MS: <hi rend="italic">fr</hi> cancelled before this word.</note>
+ <note type="tnote" n="269">1079<space rend="indent1"/><hi rend="italic">Symoud</hi>. So MS. BMH: <hi rend="italic">Symound</hi>.</note>
+ <note type="tnote" n="270"><space rend="indent1"/><hi rend="italic">gardenyr</hi>. MS: first letter blotted; <hi rend="italic">g</hi> added above.</note>
+ <note type="tnote" n="271">1083<space rend="indent1"/><hi rend="italic">fowle</hi>. So BMH. MS: <hi rend="italic">flowle</hi>. Scribe may have cancelled the superfluous letter <hi rend="italic">l</hi>.</note>
+ <note type="tnote" n="272">1086<space rend="indent1"/><hi rend="italicsmallcaps">Mary Maudleyn</hi>. MS: <hi rend="italic">J</hi> cancelled before unnormalized manuscript speech marker, <hi rend="italic">M Magdleyn</hi>.</note>
+ <note type="tnote" n="273">1091<space rend="indent1"/><hi rend="italic">posybylyté</hi>. So BMH. MS: <hi rend="italic">posybyle</hi>.</note>
+ <note type="tnote" n="274">1096<space rend="indent1"/><hi rend="italic">systyrs</hi>. So BMH. MS: <hi rend="italic">systyr</hi>.</note>
+ <note type="tnote" n="275">1100<space rend="indent1"/><hi rend="italic">expresse</hi>. MS: <hi rend="italic">a</hi> cancelled before this word.</note>
+ <note type="tnote" n="276">1111<space rend="indent1"/><hi rend="italic">I</hi>. MS: inserted over the line.</note>
+ <note type="tnote" n="277">1120<space rend="indent1"/><hi rend="italic">In nomine Patrys, ett Felii ett Spiritus Sancti</hi><hi rend="italic">, amen</hi>. MS: line written in red.</note>
+ <note type="tnote" n="278">1125<space rend="indent1"/><hi rend="italic">O</hi>. MS: added in margin.</note>
+ <note type="tnote" n="279">1127<space rend="indent1"/><hi rend="italic">thow</hi>. MS: stroke of letter cancelled before.</note>
+ <note type="tnote" n="280">1133<space rend="indent1"/><hi rend="italic">aprise</hi>. MS: <hi rend="italic">ri</hi> added above.</note>
+ <note type="tnote" n="281">1134<space rend="indent1"/><hi rend="italic">meve</hi>. MS: <hi rend="italic">ve</hi> added above.</note>
+ <note type="tnote" n="282">1139<space rend="indent1"/><hi rend="italic">curteys</hi>. MS: <hi rend="italic">r</hi> added above.</note>
+ <note type="tnote" n="283">1149<space rend="indent1"/><hi rend="italic">syde</hi>. MS: written below the line in the right margin.</note>
+ <note type="tnote" n="284">1153<space rend="indent1"/><hi rend="italic">ded</hi>. MS: inserted above caret.</note>
+ <note type="tnote" n="285">1158<space rend="indent1"/><hi rend="italic">Onshapli thou art to</hi><hi rend="italic"> see</hi>. MS: line bracketed and written to the right of lines 1155 and 1156.</note>
+ <note type="tnote" n="286">1159<space rend="indent1"/><hi rend="italic">women</hi>. So MS. BMH: <hi rend="italic">woman</hi>.</note>
+ <note type="tnote" n="287">1162<space rend="indent1"/><hi rend="italic">me</hi>. So BMH. MS: partial letter cancelled after.</note>
+ <note type="tnote" n="288"><hi rend="italic"><space rend="indent1"/>They love me bettyr than thee</hi>. MS: line bracketed and written to the right of lines 1160 and 1161.</note>
+ <note type="tnote" n="289">1170<space rend="indent1"/><hi rend="italic">On thi ars com mych wondyre</hi>. MS: line bracketed and written to the right of lines 1168 and 1169.</note>
+ <note type="tnote" n="290">1174<space rend="indent1"/><hi rend="italic">This kenred is asprongyn late</hi>. MS: line bracketed and written to the right of lines 1171 and 1172.</note>
+ <note type="tnote" n="291">1177, s.d.<space rend="indent1"/><hi rend="italic">Bete hym. Rex diciit</hi>. MS: written to the right of the line.</note>
+ <note type="tnote" n="292">1178<space rend="indent1"/><hi rend="italic">this</hi>. MS: added above.</note>
+ <note type="tnote" n="293">1181<space rend="indent1"/><hi rend="italic">bryng</hi>. So BMH. MS: <hi rend="italic">bryg</hi>.</note>
+ <note type="tnote" n="294">1186<space rend="indent1"/><hi rend="italic">sarasenorum</hi>. MS: <hi rend="italic">sarasensore</hi>. BMH silently emend, probably for consistency of final <hi rend="italic">orum</hi> in all lines of this doggerel Latin. This line is written in red.</note>
+ <note type="tnote" n="295">1188<space rend="indent1"/><hi rend="italic">Gormoerdorum</hi>. So MS. BMH: <hi rend="italic">Gormondorum</hi>.</note>
+ <note type="tnote" n="296">1193<space rend="indent1"/><hi rend="italic">Snyguer</hi>. MS: <hi rend="italic">Sy</hi> cancelled before this word.</note>
+ <note type="tnote" n="297">1194<space rend="indent1"/><hi rend="italic">lamba</hi>. So BMH. MS: <hi rend="italic">la</hi> cancelled before this word.</note>
+ <note type="tnote" n="298">1209, s.d.<space rend="indent1"/><hi rend="italic">Rex dicitt</hi>. MS: written in right margin.</note>
+ <note type="tnote" n="299">1213<space rend="indent1"/><hi rend="italic">Wyth thi wesdom and thi </hi><hi rend="italic">wytt</hi>. MS: line bracketed and written to the right of lines 1210 and 1211.</note>
+ <note type="tnote" n="300">1217<space rend="indent1"/><hi rend="italic">Here in thi presens as </hi><hi rend="italic">I sett</hi>. MS: line bracketed and written to the right of lines 1214–16.</note>
+ <note type="tnote" n="301">1220<space rend="indent1"/><hi rend="italic">be</hi>. MS: <hi rend="italic">o</hi> cancelled before this word.</note>
+ <note type="tnote" n="302">1227, s.d.<space rend="indent1"/><hi rend="italic">Syng both</hi>. MS: written in right margin.</note>
+ <note type="tnote" n="303">1228<space rend="indent1"/><hi rend="italic">dyvll</hi>. MS: indeterminate letter blotted before this word.</note>
+ <note type="tnote" n="304">1230<space rend="indent1"/><hi rend="italic">Butt now, syr, kyng, quene, and knyth</hi>. MS: a red line separates lines 1229 and 1230, but there is no change of speaker.</note>
+ <note type="tnote" n="305">1234<space rend="indent1"/><hi rend="italic">er</hi>. MS, BMH: <hi rend="italic">or</hi>.</note>
+ <note type="tnote" n="306"><hi rend="italic"><space rend="indent1"/>ever</hi>. MS: A faint line through this word suggests its possible cancellation. In that case <hi rend="italic">er ye gon</hi> (before you go) would make sense in the context of the speech.</note>
+ <note type="tnote" n="307">1236<space rend="indent1"/><hi rend="italic">this</hi>. MS: five or six letters cancelled before; word(s) not discernable; BMH identify cancelled letters as <hi rend="italic">mewyer ye</hi>.</note>
+ <note type="tnote" n="308">1239<space rend="indent1"/><hi rend="italic">And</hi>. MS: <hi rend="italic">ȝ</hi> cancelled before this word.</note>
+ <note type="tnote" n="309">1241<space rend="indent1"/><hi rend="italic">This same </hi><hi rend="italic">holy bede</hi>. MS: line bracketed and written to the right of lines 1238 and 1239.</note>
+ <note type="tnote" n="310"><space rend="indent1"/><hi rend="italic">bede</hi>. MS: final letter obscured by binding. BMH posit the letter <hi rend="italic">e</hi>, hence their <hi rend="italic">bede</hi>, which they gloss as “prayer.” The scribe usually distinguishes the letters <hi rend="italic">e</hi> and <hi rend="italic">o</hi> and here clearly has written <hi rend="italic">be</hi>; nonetheless, “this same holy <hi rend="italic">body</hi>” offers a better fit with Presbiter’s praise of the virtues of Mahownd’s relics.</note>
+ <note type="tnote" n="311">1243<space rend="indent1"/><hi rend="italic">holy</hi>. So BMH. MS, B: <hi rend="italic">body</hi>. BMH reverse lines 1243 and 1244 based on the verse form. See BMH, pp. 211–12.</note>
+ <note type="tnote" n="312">1246<space rend="indent1"/><hi rend="italic">That</hi>. MS: <hi rend="italic">t</hi> altered from <hi rend="italic">e</hi>.</note>
+ <note type="tnote" n="313">1248<space rend="indent1"/><hi rend="italic">That is ower god in fere</hi>. MS: line bracketed and written to the right of lines 1245 and 1246.</note>
+ <note type="tnote" n="314">1249<space rend="indent1"/><hi rend="italic">serjauntys</hi>. MS: <hi rend="italic">xall</hi> cancelled before.</note>
+ <note type="tnote" n="315">1260<space rend="indent1"/><hi rend="italic">Baramathye</hi>. MS: <hi rend="italic">m</hi> cancelled before this word.</note>
+ <note type="tnote" n="316">1261<space rend="indent1"/><hi rend="italicsmallcaps">Serjantt</hi>. So MS. BMH add <hi rend="italic">Primus</hi> before.</note>
+ <note type="tnote" n="317">1277<space rend="indent1"/><hi rend="italicsmallcaps">Pylatti</hi>. MS: final letter obscured by binding, but a second <hi rend="italic">t</hi> can be discerned. BMH: <hi rend="italic">Pylatus</hi>.</note>
+ <note type="tnote" n="318">1278<space rend="indent1"/><hi rend="italic">that</hi>. So MS. BMH: <hi rend="italic">tho lordys</hi>.</note>
+ <note type="tnote" n="319"><space rend="indent1"/><hi rend="italic">ryall</hi>. MS: <hi rend="italic">l</hi> cancelled before this word.</note>
+ <note type="tnote" n="320">1283<space rend="indent1"/><hi rend="italic">passon</hi>. So MS. BMH: <hi rend="italic">passyon</hi>.</note>
+ <note type="tnote" n="321">1287<space rend="indent1"/><hi rend="italic">am</hi>. MS: inserted above.</note>
+ <note type="tnote" n="322">1292<space rend="indent1"/><hi rend="italic">nere</hi>. MS: before this word the scribe appears to have cancelled a mistaken stroke of the pen.</note>
+ <note type="tnote" n="323">1298<space rend="indent1"/><hi rend="italic">aprise</hi>. So BMH, emending silently. MS: <hi rend="italic">apise</hi>.</note>
+ <note type="tnote" n="324">1299<space rend="indent1"/><hi rend="italic">Wych</hi>. So MS. BMH emend silently: <hi rend="italic">Wyche</hi>.</note>
+ <note type="tnote" n="325">1303<space rend="indent1"/><hi rend="italic">be</hi>. MS: inserted above.</note>
+ <note type="tnote" n="326">1309<space rend="indent1"/><hi rend="italic">natt</hi>. MS: <hi rend="italic">it</hi> cancelled before.</note>
+ <note type="tnote" n="327">1311<space rend="indent1"/><hi rend="italic">sentens</hi>. So BMH. MS: <hi rend="italic">sentellys</hi>. BMH emend here and at line 1315.</note>
+ <note type="tnote" n="328">1318<space rend="indent1"/><hi rend="italic">to</hi>. MS: inserted above.</note>
+ <note type="tnote" n="329">1323<space rend="indent1"/><hi rend="italic">desypyllys</hi>. MS: <hi rend="italic">py</hi> inserted above this word.</note>
+ <note type="tnote" n="330">1329<space rend="indent1"/><hi rend="italic">the</hi><hi rend="subscript">2</hi>. MS: inserted above.</note>
+ <note type="tnote" n="331">1333<space rend="indent1"/><hi rend="italic">for</hi>. So BMH. This line is bracketed and written in the margin to the right of lines 1331 and 1332; binding partly obscures the word after <hi rend="italic">Mery</hi>.</note>
+ <note type="tnote" n="332"><space rend="indent1"/><hi rend="italic">to</hi>. MS: <hi rend="italic">fo</hi> cancelled before.</note>
+ <note type="tnote" n="333">1334<space rend="indent1"/><hi rend="italic">renown</hi>. MS: of cancelled before.</note>
+ <note type="tnote" n="334">1336<space rend="indent1"/><hi rend="italic">ded</hi>. MS: written below the line at the right.</note>
+ <note type="tnote" n="335">1343<space rend="indent1"/><hi rend="italic">alle</hi>. So BMH. MS: <hi rend="italic">l</hi> cancelled before this word.</note>
+ <note type="tnote" n="336">1345<space rend="indent1"/><hi rend="italic">dysyllpyllys</hi>. So MS. BMH: <hi rend="italic">dysypyllys</hi>.</note>
+ <note type="tnote" n="337">1348<space rend="indent1"/><hi rend="italic">ferr</hi>. MS: inserted above.</note>
+ <note type="tnote" n="338">1348, s.d.<space rend="indent1"/><hi rend="italic">Jhesus</hi>. This word is repeated at the end of the line. This stage direction is divided from the preceding line with a horizontal line drawn in red ink.</note>
+ <note type="tnote" n="339"><space rend="indent1"/><hi rend="italic">shew</hi>. So MS. BMH emend: <hi rend="italic">shew [hymself]</hi>.</note>
+ <note type="tnote" n="340">1351<space rend="indent1"/><hi rend="italic">the</hi>. MS: <hi rend="italic">I</hi> cancelled before this word. <hi rend="italic">In</hi> added in margin.</note>
+ <note type="tnote" n="341">1353<space rend="indent1"/><hi rend="italic">Phebus</hi>. MS: scribe has written character <hi rend="italic">yogh</hi> instead of abbreviation for us.</note>
+ <note type="tnote" n="342">1358<space rend="indent1"/><hi rend="italic">hevnly</hi>. So MS. BMH: <hi rend="italic">heuenly</hi>.</note>
+ <note type="tnote" n="343">1368<space rend="indent1"/><hi rend="italic">myn</hi>. MS: scribe has written <hi rend="italic">my</hi> with superscript abbreviation for <hi rend="italic">er</hi>.</note>
+ <note type="tnote" n="344">1375, s.d.<space rend="indent1"/><hi rend="italic">Tunc decendet angelus</hi>. MS: written in right margin.</note>
+ <note type="tnote" n="345">1376<space rend="indent1"/><hi rend="italic">Abasse</hi>. MS: indeterminate letter cancelled between <hi rend="italic">A</hi> and <hi rend="italic">b</hi>; BMH identify cancelled letter as <hi rend="italic">b</hi>.</note>
+ <note type="tnote" n="346">1385<space rend="indent1"/><hi rend="italic">commaunddement</hi>. So BMH. MS: <hi rend="italic">commauddement</hi>.</note>
+ <note type="tnote" n="347">1388<space rend="indent1"/><hi rend="italic">thoys</hi>. MS: <hi rend="italic">y</hi> cancelled before this word.</note>
+ <note type="tnote" n="348">1389<space rend="indent1"/><hi rend="italic">be browth</hi>. MS: written below the line.</note>
+ <note type="tnote" n="349">1395<space rend="indent1"/><hi rend="italic">Stryke! Stryke!</hi> So BMH. MS: <hi rend="italic">stryke skryke</hi>.</note>
+ <note type="tnote" n="350">1404<space rend="indent1"/><hi rend="italic">good</hi>. MS: <hi rend="italic">o</hi> inserted above.</note>
+ <note type="tnote" n="351">1405<space rend="indent1"/><hi rend="italic">forhongord</hi>. So MS, BMH. B: <hi rend="italic">sor hongord</hi>.</note>
+ <note type="tnote" n="352">1409<space rend="indent1"/><hi rend="italic">I</hi><hi rend="subscript">1</hi>. So BMH. MS: <hi rend="italic">Cy</hi> cancelled before this word.</note>
+ <note type="tnote" n="353">1410<space rend="indent1"/><hi rend="italic">forlorn</hi>. MS: <hi rend="italic">lonr</hi> cancelled between <hi rend="italic">for</hi> and <hi rend="italic">lorn</hi>.</note>
+ <note type="tnote" n="354">1418, s.d.<space rend="indent1"/><hi rend="italic">Bete hym</hi>. MS: written in right margin.</note>
+ <note type="tnote" n="355">1427<space rend="indent1"/><hi rend="italic">same</hi>. MS: <hi rend="italic">m</hi> written over another letter.</note>
+ <note type="tnote" n="356">1428<space rend="indent1"/><hi rend="italic">to</hi>. MS: inserted above.</note>
+ <note type="tnote" n="357">1429<space rend="indent1"/><hi rend="italic">I</hi>. MS: inserted above.</note>
+ <note type="tnote" n="358">1430<space rend="indent1"/><hi rend="italic">Is of the lond of Marcyll</hi>. MS: line bracketed and written to the right of lines 1428 and 1429.</note>
+ <note type="tnote" n="359">1435<space rend="indent1"/><hi rend="italic">Yondyr</hi>. So MS. BMH: <hi rend="italic">Yond ther</hi>.</note>
+ <note type="tnote" n="360"><space rend="indent1"/><hi rend="italic">Torke</hi>. So MS. BMH: <hi rend="italic">Torkye</hi>.</note>
+ <note type="tnote" n="361">1437–38<space rend="indent1"/><hi rend="italic">Yendyr is the lond of Satyllye / Of</hi><hi rend="italic"> this cors we thar nat abaffe</hi>. I follow the emendation of BMH, reversing lines 1437 and 1438. This order preserves the verse form employed by the playwright here and accords with the sequence of events. The stage direction at line 1438 is written to the right of lines 1436 and 1437. B retains the manuscript order of lines 1437 and 1438 and places the direction for singing between lines 1436 and 1437.</note>
+ <note type="tnote" n="362">1439<space rend="indent1"/>BMH silently emend here, adding the speaker’s rubric <hi rend="italic">Shepmen</hi>.</note>
+ <note type="tnote" n="363">1444<space rend="indent1"/><hi rend="italic">Sett off! Sett off from lond</hi>. So B. BMH give this line to the Boy. MS: The speech marker, <hi rend="italic">The Boy</hi>, appears next to line 1445.</note>
+ <note type="tnote" n="364">1448<space rend="indent1"/><hi rend="italic">vyctoré</hi>. MS: written above a cancelled <hi rend="italic">vytory</hi>.</note>
+ <note type="tnote" n="365">1452<space rend="indent1"/><hi rend="italic">shew</hi>. So BMH. MS: <hi rend="italic">she</hi>.</note>
+ <note type="tnote" n="366">1456<space rend="indent1"/><hi rend="italic">yow</hi>. MS: written twice.</note>
+ <note type="tnote" n="367"><space rend="indent1"/><hi rend="italic">way</hi>. So BMH. MS: omitted.</note>
+ <note type="tnote" n="368">1469<space rend="indent1"/><hi rend="italic">mysbelef</hi>. So BMH. MS: <hi rend="italic">mysbele</hi>.</note>
+ <note type="tnote" n="369">1476<space rend="indent1"/><hi rend="italic">And</hi>. MS: preceded by ampersand.</note>
+ <note type="tnote" n="370">1480<space rend="indent1"/><hi rend="italic">That wold I</hi><hi rend="italic"> lerne; itt is my plesyng</hi>. This is the last line on folio 129r. At the bottom right appears the speaker’s rubric (<hi rend="italic">Mary</hi>) for the speech beginning at the top of folio 129v. At the bottom of folio 129r the scribe has written <hi rend="italic">Jhesu mercy</hi>. Furnivall believed these words to be part of Mary’s speech. BMH (p. 213) suggest that they indicate the scribe’s “pious outburst.”</note>
+ <note type="tnote" n="371">1492<space rend="indent1"/><hi rend="italic">sterrys</hi>. MS: <hi rend="italic">and</hi> cancelled after; ampersand written above.</note>
+ <note type="tnote" n="372">1503<space rend="indent1"/><hi rend="italic">it</hi>. MS: inserted above a cancelled <hi rend="italic">is</hi>.</note>
+ <note type="tnote" n="373">1526<space rend="indent1"/><hi rend="italic">hast</hi>. MS: <hi rend="italic">a</hi> cancelled before this word.</note>
+ <note type="tnote" n="374">1530<space rend="indent1"/><hi rend="italic">return</hi>. So BMH. MS: <hi rend="italic">retur</hi>.</note>
+ <note type="tnote" n="375">1541<space rend="indent1"/><hi rend="italic">sestt</hi>. MS: <hi rend="italic">s</hi><hi rend="subscript">2</hi> changed from <hi rend="italic">y</hi>.</note>
+ <note type="tnote" n="376">1542<space rend="indent1"/><hi rend="italic">lord</hi>. MS: added above the line.</note>
+ <note type="tnote" n="377">1549<space rend="indent1"/><hi rend="italic">Onto</hi>. MS: <hi rend="italic">to</hi> inserted above.</note>
+ <note type="tnote" n="378">1551<space rend="indent1"/><hi rend="italic">knees</hi>. MS: indeterminate letter cancelled before this word.</note>
+ <note type="tnote" n="379">1553<space rend="indent1"/><hi rend="italic">mee</hi>. MS: <hi rend="italic">q</hi> cancelled after this word.</note>
+ <note type="tnote" n="380">1560<space rend="indent1"/><hi rend="italic">Good</hi>. MS: one <hi rend="italic">o</hi> added above.</note>
+ <note type="tnote" n="381">1561, s.d.<space rend="indent1"/><hi rend="italic">clerk</hi>. So BMH. MS: <hi rend="italic">cler</hi>.</note>
+ <note type="tnote" n="382">1574<space rend="indent1"/><hi rend="italic">I</hi>. MS: <hi rend="italic">a</hi> cancelled before this word.</note>
+ <note type="tnote" n="383">1576<space rend="indent1"/><hi rend="italic">suek</hi>. So MS. BMH: <hi rend="italic">sueke</hi>.</note>
+ <note type="tnote" n="384">1577<space rend="indent1"/><hi rend="italic">hath</hi>. So MS. BMH: <hi rend="italic">heth</hi>.</note>
+ <note type="tnote" n="385">1588<space rend="indent1"/><hi rend="italic">asstatt</hi>. So BMH. MS: <hi rend="italic">assatt</hi>.</note>
+ <note type="tnote" n="386">1590<space rend="indent1"/><hi rend="italic">awngelys</hi>. So BMH. MS: <hi rend="italic">awngelus</hi>.</note>
+ <note type="tnote" n="387">1609, s.d.<space rend="indent1"/><hi rend="italic">angelys</hi>. So BMH. MS: <hi rend="italic">angelus</hi>.</note>
+ <note type="tnote" n="388">1613<space rend="indent1"/><hi rend="italic">cold</hi>. So MS. BMH emend as <hi rend="italic">chelle</hi> for the sake of the rhyme scheme.</note>
+ <note type="tnote" n="389">1617, s.d.<space rend="indent1"/><hi rend="italic">chongg</hi>. MS: <hi rend="italic">voyd</hi> cancelled before. Final letter of <hi rend="italic">chongg</hi> partially obscured by the margin.</note>
+ <note type="tnote" n="390">1620<space rend="indent1"/><hi rend="italic">shewyng</hi>. MS: <hi rend="italic">is</hi> cancelled before.</note>
+ <note type="tnote" n="391">1622<space rend="indent1"/><hi rend="italic">saw</hi>. MS: <hi rend="italic">w</hi> altered from <hi rend="italic">x</hi> or <hi rend="italic">y</hi>.</note>
+ <note type="tnote" n="392">1626<space rend="indent1"/><hi rend="italic">good</hi>. So MS. BMH: <hi rend="italic">Good</hi>. See the <ref target="insert-internal-link" type="internal">explanatory note for this line</ref>.</note>
+ <note type="tnote" n="393">1627<space rend="indent1"/><hi rend="italic">may</hi>. MS: indeterminate letter cancelled before this word.</note>
+ <note type="tnote" n="394">1633<space rend="indent1"/><hi rend="italic">I tell yow, wythowtyn dowthe</hi>. MS: line bracketed and written to the right of line 1632.</note>
+ <note type="tnote" n="395">1638<space rend="indent1"/><hi rend="italic">My</hi>. MS: <hi rend="italic">I</hi> cancelled before.</note>
+ <note type="tnote" n="396">1639<space rend="indent1"/><hi rend="italic">yower</hi>. So BMH. MS: <hi rend="italic">ower</hi>.</note>
+ <note type="tnote" n="397">1641, s.d.<space rend="indent1"/><hi rend="italic">transit</hi>. So BMH. MS: <hi rend="italic">transiunt</hi>.</note>
+ <note type="tnote" n="398">1643<space rend="indent1"/><hi rend="italic">the</hi>. MS: <hi rend="italic">w</hi> cancelled before this word.</note>
+ <note type="tnote" n="399">1648<space rend="indent1"/><hi rend="italic">wyth</hi>. MS: inserted above.</note>
+ <note type="tnote" n="400">1649<space rend="indent1"/><hi rend="italic">yowre</hi>. MS: inserted above cancelled <hi rend="italic">ow</hi>.</note>
+ <note type="tnote" n="401">1653<space rend="indent1"/><hi rend="italic">wyth</hi>. MS: <hi rend="italic">s</hi> cancelled before this word.</note>
+ <note type="tnote" n="402">1655<space rend="indent1"/><hi rend="italic">myschef</hi>. So BMH. MS: <hi rend="italic">mysch</hi>.</note>
+ <note type="tnote" n="403">1661<space rend="indent1"/><hi rend="italic">malycyows</hi>. So BMH. MS: <hi rend="italic">l</hi> cancelled before this word.</note>
+ <note type="tnote" n="404">1684<space rend="indent1"/><hi rend="italic">God</hi>. MS: inserted above.</note>
+ <note type="tnote" n="405">1695<space rend="indent1"/><hi rend="italic">onto</hi>. MS: <hi rend="italic">to</hi> added above.</note>
+ <note type="tnote" n="406">1707<space rend="indent1"/><hi rend="italic">me</hi>. MS: inserted above.</note>
+ <note type="tnote" n="407">1714<space rend="indent1"/><hi rend="italic">save</hi>. MS: <hi rend="italic">fe</hi> cancelled before.</note>
+ <note type="tnote" n="408">1715, s.d.<space rend="indent1"/><hi rend="italic">tunc</hi>. MS: <hi rend="italic">tt</hi> cancelled before this word.</note>
+ <note type="tnote" n="409">1718<space rend="indent1"/><hi rend="italic">And yf thou aspye ony</hi><hi rend="italic"> lond</hi>. MS: line written to the right of lines 1716 and 1717.</note>
+ <note type="tnote" n="410">1721<space rend="indent1"/><hi rend="italic">ondyrstond</hi>. So BMH. MS: line is written to the right of lines 1719 and 1720; last three letters obscured by binding.</note>
+ <note type="tnote" n="411">1724<space rend="indent1"/><hi rend="italic">That stondyt upon a strond</hi>. MS: line written to the right of lines 1722 and 1723.</note>
+ <note type="tnote" n="412">1735<space rend="indent1"/><hi rend="italic">Thou woldyst ledd hyr owt of lond</hi>. MS: line bracketed and written to the right of lines 1733 and 1734.</note>
+ <note type="tnote" n="413">1736<space rend="indent1"/><hi rend="italic">God</hi>. MS: a letter, probably <hi rend="italic">o</hi>, has been cancelled before <hi rend="italic">d</hi>.</note>
+ <note type="tnote" n="414">1737<space rend="indent1"/><hi rend="italic">shall</hi>. MS: repeated and not cancelled.</note>
+ <note type="tnote" n="415">1738<space rend="indent1"/><hi rend="italic">Or ellys I woll nat wend</hi>. MS: line written to the right of line 1737.</note>
+ <note type="tnote" n="416">1740<space rend="indent1"/><hi rend="italic">up</hi>. MS: <hi rend="italic">I</hi> cancelled before.</note>
+ <note type="tnote" n="417">1741<space rend="indent1"/><hi rend="italic">In the Holy Lond</hi>. MS: line written to the right of line 1740.</note>
+ <note type="tnote" n="418">1744<space rend="indent1"/><hi rend="italic">Hens that</hi><hi rend="italic"> we were</hi>. MS: line written to the right of line 1743.</note>
+ <note type="tnote" n="419">1749<space rend="indent1"/><hi rend="italic">A</hi>. MS: inserted above in red.</note>
+ <note type="tnote" n="420">1766<space rend="indent1"/><hi rend="italic">wyff</hi>. MS: <hi rend="italic">f</hi> cancelled before. BMH mistakenly note this change at line 1749.</note>
+ <note type="tnote" n="421">1773<space rend="indent1"/><hi rend="italic">me</hi>. MS: inserted above.</note>
+ <note type="tnote" n="422">1774<space rend="indent1"/><hi rend="italic">Yf thi</hi><hi rend="italic"> wyl it be</hi>. MS: line bracketed and written to the right of lines 1771–73.</note>
+ <note type="tnote" n="423">1777<space rend="indent1"/><hi rend="italic">Ower mast woll all asondyr</hi>. MS: line bracketed and written to the right of lines 1775–76.</note>
+ <note type="tnote" n="424">1778<space rend="indent1"/><hi rend="italic">ley</hi>. MS: inserted above.</note>
+ <note type="tnote" n="425">1780<space rend="indent1"/><hi rend="italic">Cast hyr </hi><hi rend="italic">owt, or ellys we synke ondyr</hi>. MS: line written to the right of lines 1778 and 1779; final two letters of <hi rend="italic">ondyr</hi> not visible because of trimming. BMH emend.</note>
+ <note type="tnote" n="426">1786<space rend="indent1"/><hi rend="italic">And my chyld hyr by</hi>. MS: line written to the right of lines 1784–85.</note>
+ <note type="tnote" n="427">1790<space rend="indent1"/><hi rend="italic">I sey yow, verely</hi>. MS: line bracketed and written to the right of lines 1788 and 1789.</note>
+ <note type="tnote" n="428">1790, s.d.<space rend="indent1"/><hi rend="italic">remigant</hi>. So BMH. MS: <hi rend="italic">remigat</hi>.</note>
+ <note type="tnote" n="429"><hi rend="italic"><space rend="indent1"/>Tunc remigant ad montem, et </hi><hi rend="italic">dicit rex</hi>. MS: This stage direction appears as cancelled after line 1796, suggesting that the scribe realized he had written it in the wrong place but neglected to put the direction before the speech of the king that it clearly introduces. I follow the emendation of BMH. B omits.</note>
+ <note type="tnote" n="430">1796<space rend="indent1"/><hi rend="italic">To be ther gyde here</hi>. MS: line bracketed and written to the right of lines 1794–95.</note>
+ <note type="tnote" n="431">1796, s.d.<space rend="indent1"/><hi rend="italic">remigant</hi>. So BMH. MS: <hi rend="italic">remigat</hi>.</note>
+ <note type="tnote" n="432"><space rend="indent1"/><hi rend="italic">a</hi><hi rend="italic"> monte</hi>. So BMH. MS: <hi rend="italic">a montem</hi>.</note>
+ <note type="tnote" n="433">1800<space rend="indent1"/><hi rend="italic">And belyve go</hi><hi rend="italic"> me fro</hi>. MS: Line bracketed and written to the right of lines 1797–99.</note>
+ <note type="tnote" n="434">1819<space rend="indent1"/><hi rend="italic">shall</hi>. MS: <hi rend="italic">thee seyn</hi> cancelled after this word.</note>
+ <note type="tnote" n="435">1822<space rend="indent1"/><hi rend="italic">Mercyll</hi>. So MS. BMH: <hi rend="italic">Marcyll</hi>.</note>
+ <note type="tnote" n="436">1825<space rend="indent1"/><hi rend="italic">tell</hi>. MS: inserted above.</note>
+ <note type="tnote" n="437">1827<space rend="indent1"/><hi rend="italic">the</hi>. MS: inserted above.</note>
+ <note type="tnote" n="438">1829<space rend="indent1"/><hi rend="italic">Satyrnas</hi>. So MS. BMH: <hi rend="italic">Saternas</hi>.</note>
+ <note type="tnote" n="439">1830<space rend="indent1"/><hi rend="italic">commaundmenttys</hi>. So BMH. MS: <hi rend="italic">commaundmettys</hi>.</note>
+ <note type="tnote" n="440">1838<space rend="indent1"/><hi rend="italic">From the fyndys bond</hi>. MS: line bracketed and written to the right of lines 1836–37.</note>
+ <note type="tnote" n="441">1840<space rend="indent1"/><hi rend="italic">baptysse</hi>. MS: <hi rend="italic">bast</hi> cancelled before. BMH do not note this cancellation.</note>
+ <note type="tnote" n="442">1842<space rend="indent1"/><hi rend="italic">Agens</hi><hi rend="italic"> the fynd to stond</hi>. MS: line bracketed and written to the right of lines 1839–41.</note>
+ <note type="tnote" n="443">1844<space rend="indent1"/><hi rend="italic">cummaunddementt</hi>. So BMH. MS: <hi rend="italic">cummauddementt</hi>.</note>
+ <note type="tnote" n="444">1847<space rend="indent1"/><hi rend="italic">dwall</hi>. So B. MS: <hi rend="italic">wall</hi>.</note>
+ <note type="tnote" n="445">1848<space rend="indent1"/><hi rend="italic">and</hi><hi rend="subscript">2</hi>. MS: inserted above.</note>
+ <note type="tnote" n="446">1850<space rend="indent1"/><hi rend="italic">feyth</hi>. MS: <hi rend="italic">e</hi> inserted above.</note>
+ <note type="tnote" n="447">1856<space rend="indent1"/><hi rend="italic">lawe</hi>. So B. MS, BMH: <hi rend="italic">lave</hi>.</note>
+ <note type="tnote" n="448">1859<space rend="indent1"/><hi rend="italic">That feythfully I </hi><hi rend="italic">crave</hi>. MS: line bracketed and written to the right of lines 1856 and 1857.</note>
+ <note type="tnote" n="449">1862<space rend="indent1"/><hi rend="italic">kepe</hi>. MS: <hi rend="italic">ȝ</hi> cancelled after this word. Line bracketed and written to the right of lines 1860–61.</note>
+ <note type="tnote" n="450">1866<space rend="indent1"/><hi rend="italic">Be</hi><hi rend="subscript">1</hi>. MS: <hi rend="italic">b</hi> cancelled after.</note>
+ <note type="tnote" n="451">1870<space rend="indent1"/><hi rend="italic">Help</hi><hi rend="italic"> me over the se</hi>. MS: line bracketed and written to the right of lines 1868–69.</note>
+ <note type="tnote" n="452">1873<space rend="indent1"/><hi rend="italic">ony</hi>. MS: two letters, difficult to distinguish, cancelled before.</note>
+ <note type="tnote" n="453">1874<space rend="indent1"/><hi rend="italic">Comme in, in Goddys</hi><hi rend="italic"> name</hi>. MS: line bracketed and written to the right of lines 1871–73.</note>
+ <note type="tnote" n="454">1878<space rend="indent1"/><hi rend="italic">As well as thou can</hi>. MS: line bracketed and written to the right of lines 1875–77.</note>
+ <note type="tnote" n="455">1882<space rend="indent1"/><hi rend="italic">I shall qwyt yower mede</hi>. MS: line bracketed and written to the right of lines 1879–81.</note>
+ <note type="tnote" n="456">1883<space rend="indent1"/><hi rend="italic">In</hi>. So BMH. MS: <hi rend="italic">I</hi>.</note>
+ <note type="tnote" n="457">1886<space rend="indent1"/><hi rend="italic">Verely, indeed</hi>. MS: line bracketed and written to the right of lines 1883–85.</note>
+ <note type="tnote" n="458">1890<space rend="indent1"/><hi rend="italic">thee</hi>. MS: <hi rend="italic">ȝ</hi> cancelled before this word.</note>
+ <note type="tnote" n="459">1897<space rend="indent1"/><hi rend="italic">shynne</hi>. MS: <hi rend="italic">y</hi> written over <hi rend="italic">e</hi>.</note>
+ <note type="tnote" n="460">1903<space rend="indent1"/><hi rend="italic">wrappyd</hi>. So BMH. MS: <hi rend="italic">wrppyd</hi>.</note>
+ <note type="tnote" n="461"><space rend="indent1"/><hi rend="italic">varyawns</hi>. MS: final two letters difficult to discern because of binding.</note>
+ <note type="tnote" n="462">1904<space rend="indent1"/><hi rend="italic">into</hi>. So BMH. MS: <hi rend="italic">i to</hi>.</note>
+ <note type="tnote" n="463">1907<space rend="indent1"/><hi rend="italic">precyus</hi>. MS: inserted above.</note>
+ <note type="tnote" n="464">1909<space rend="indent1"/><hi rend="italic">Wherfor</hi>. So BMH. MS: <hi rend="italic">Whefor</hi>.</note>
+ <note type="tnote" n="465">1914, s.d.<space rend="indent1"/><hi rend="italic">nauta</hi>. MS: partial letter cancelled before. BMH do not note this cancellation.</note>
+ <note type="tnote" n="466">1916<space rend="indent1"/><hi rend="italic">Mercylle</hi>. So MS. BMH: <hi rend="italic">Marcylle</hi>.</note>
+ <note type="tnote" n="467">1918<space rend="indent1"/><hi rend="italic">I prye</hi><hi rend="italic"> yow for my sake</hi>. MS: line bracketed and written to the right of lines 1915 and 1916.</note>
+ <note type="tnote" n="468">1921<space rend="indent1"/><hi rend="italic">thi</hi>. So MS. BMH: <hi rend="italic">þe</hi>.</note>
+ <note type="tnote" n="469">1922<space rend="indent1"/><hi rend="italic">Cryst save thee from wo and</hi><hi rend="italic"> wrake</hi>. MS: line bracketed and written to the right of lines 1919–21.</note>
+ <note type="tnote" n="470">1924<space rend="indent1"/><hi rend="italic">think</hi>. So BMH, B. MS: omitted.</note>
+ <note type="tnote" n="471"><space rend="indent1"/><hi rend="italic">yow</hi>. MS: <hi rend="italic">both</hi> cancelled after.</note>
+ <note type="tnote" n="472">1926<space rend="indent1"/><hi rend="italic">he</hi>. MS: inserted above.</note>
+ <note type="tnote" n="473">1928<space rend="indent1"/><hi rend="italic">Yitte</hi>. So BMH. MS: <hi rend="italic">itte</hi>.</note>
+ <note type="tnote" n="474">1930<space rend="indent1"/><hi rend="italic">donum</hi>. So BMH. MS: <hi rend="italic">domum</hi>.</note>
+ <note type="tnote" n="475">1934<space rend="indent1"/><hi rend="italic">men</hi>. MS: written below the line at the right.</note>
+ <note type="tnote" n="476">1935<space rend="indent1"/><hi rend="italic">dysstroccyon</hi>. MS: <hi rend="italic">ss</hi> written over another letter.</note>
+ <note type="tnote" n="477">1938<space rend="indent1"/><hi rend="italic">Amen</hi>. MS: written in red.</note>
+ <note type="tnote" n="478">1938, s.d.<space rend="indent1"/><hi rend="italic">qwuene</hi>. So MS. BMH: <hi rend="italic">quvene</hi>.</note>
+ <note type="tnote" n="479">1939<space rend="indent1"/><hi rend="italic">Lord</hi>. MS: inserted above.</note>
+ <note type="tnote" n="480">1944<space rend="indent1"/><hi rend="italic">nobyllnesse</hi>. MS: <hi rend="italic">l</hi> cancelled between second <hi rend="italic">l</hi> and <hi rend="italic">nesse</hi>. So BMH.</note>
+ <note type="tnote" n="481">1946<space rend="indent1"/><hi rend="italic">thi</hi>. MS: inserted above.</note>
+ <note type="tnote" n="482">1949<space rend="indent1"/><hi rend="italic">wythowt</hi>. MS: <hi rend="italic">b</hi> cancelled before this word.</note>
+ <note type="tnote" n="483">1955<space rend="indent1"/><hi rend="italic">knowlege</hi>. So BMH. MS: <hi rend="italic">knowle</hi>.</note>
+ <note type="tnote" n="484">1958<space rend="indent1"/><hi rend="italic">have</hi>. MS: inserted above.</note>
+ <note type="tnote" n="485">1966<space rend="indent1"/><hi rend="italic">yower</hi>. So BMH. MS: <hi rend="italic">ower</hi>.</note>
+ <note type="tnote" n="486">1971, s.d.<space rend="indent1"/><hi rend="italic">thus</hi>. MS: <hi rend="italic">x</hi> cancelled before this word. BMH do not note this cancellation.</note>
+ <note type="tnote" n="487">1985<space rend="indent1"/><hi rend="italic">swych</hi>. So BMH. MS: <hi rend="italic">wych</hi>.</note>
+ <note type="tnote" n="488">1992<space rend="indent1"/><hi rend="italic">me</hi>. MS: inserted above.</note>
+ <note type="tnote" n="489">1996<space rend="indent1"/><hi rend="italic">stryffe</hi>. So BMH. MS: <hi rend="italic">styffe</hi>.</note>
+ <note type="tnote" n="490">2011<space rend="indent1"/><hi rend="italic">sprong</hi>. So BMH. MS: <hi rend="italic">sporng</hi>.</note>
+ <note type="tnote" n="491">2014<space rend="indent1"/><hi rend="italic">born</hi>. MS: written above cancelled <hi rend="italic">bornd</hi>.</note>
+ <note type="tnote" n="492">2015<space rend="indent1"/><hi rend="italic">commaunddement</hi>. So BMH. MS: <hi rend="italic">commauddement</hi>.</note>
+ <note type="tnote" n="493">2021<space rend="indent1"/><hi rend="italic">Thou shall byn onoryd wyth joye </hi><hi rend="italic">and reverens</hi>. This is the last line on fol. 141r. The scribe skipped fol. 141v and 142r, writing <hi rend="italic">turne on </hi><hi rend="italic">the othyr syde</hi> in red at the top of 141v.</note>
+ <note type="tnote" n="494">2030, s.d.<space rend="indent1"/><hi rend="italic">Her shall she . . . Et dicit Mari</hi>. Only the first part of the stage direction is written is red, as is the scribe’s practice for much of the manuscript. The use of black ink for the Latin verses of the hymn thus mark them as spoken text rather than stage direction.</note>
+ <note type="tnote" n="495">2034<space rend="indent1"/><hi rend="italic">no</hi><hi rend="subscript">1</hi>. MS: inserted above, not <hi rend="italic">no</hi><hi rend="subscript">2</hi> as cited by BMH.</note>
+ <note type="tnote" n="496">2038, s.d.<space rend="indent1"/><hi rend="italic">prest</hi><hi rend="subscript">2</hi>. MS: final word obscured by binding.</note>
+ <note type="tnote" n="497">2044<space rend="indent1"/><hi rend="italic">graunt</hi>. MS: <hi rend="italic">gruant</hi>. BMH: <hi rend="italic">gravnt</hi>.</note>
+ <note type="tnote" n="498">2051<space rend="indent1"/><hi rend="italic">perfytnesse</hi>. So BMH. MS: <hi rend="italic">perfynesse</hi>.</note>
+ <note type="tnote" n="499">2052<space rend="indent1"/><hi rend="italic">shew</hi>. So BMH. MS: <hi rend="italic">she</hi>.</note>
+ <note type="tnote" n="500">2066<space rend="indent1"/><hi rend="italic">angelys</hi>. So BMH. MS: <hi rend="italic">angelus</hi>.</note>
+ <note type="tnote" n="501">2073<space rend="indent1"/><hi rend="italic">possesson</hi>. So MS. BMH: <hi rend="italic">possessyon</hi>.</note>
+ <note type="tnote" n="502">2074<space rend="indent1"/><hi rend="italic">enirytawns</hi>. So BMH. MS: Probable letter <hi rend="italic">i</hi> inserted above.</note>
+ <note type="tnote" n="503">2075<space rend="indent1"/><hi rend="italic">savacyon</hi>. MS: In an interesting slip, the scribe has cancelled <hi rend="italic">damnacyon</hi> and written the more appropriate <hi rend="italic">savacyon</hi> above.</note>
+ <note type="tnote" n="504">2076<space rend="indent1"/><hi rend="italic">fere</hi>. MS: <hi rend="italic">e</hi> cancelled before this word.</note>
+ <note type="tnote" n="505">2077<space rend="indent1"/><hi rend="italic">angelys</hi>. So BMH. MS: <hi rend="italic">angelus</hi>.</note>
+ <note type="tnote" n="506">2085<space rend="indent1"/><hi rend="italic">cummaundytt</hi>. So BMH. MS: <hi rend="italic">cummaudytt</hi>.</note>
+ <note type="tnote" n="507">2092<space rend="indent1"/><hi rend="italic">Straytt</hi>. MS: <hi rend="italic">a</hi> written above.</note>
+ <note type="tnote" n="508">2097<space rend="indent1"/><hi rend="italic">thee</hi>. MS: inserted above.</note>
+ <note type="tnote" n="509">2101<space rend="indent1"/><hi rend="italic">inure</hi>. I follow the reading of BMH. MS: indeterminate word.</note>
+ <note type="tnote" n="510">2107<space rend="indent1"/><hi rend="italic">tyme</hi>. MS: <hi rend="italic">tym</hi> cancelled before.</note>
+ <note type="tnote" n="511"><space rend="indent1"/><hi rend="italic">reseyve</hi>. MS: <hi rend="italic">ve</hi> added above.</note>
+ <note type="tnote" n="512">2108, s.d.<space rend="indent1"/><hi rend="italic">Her she reseyvyt it</hi>. MS: written directly to right of line 2108.</note>
+ <note type="tnote" n="513">2112<space rend="indent1"/><hi rend="italic">recummend</hi>. So BMH. MS: <hi rend="italic">recumdmend</hi>.</note>
+ <note type="tnote" n="514">2118<space rend="indent1"/><hi rend="italic">veritatis</hi>. MS: final letters obscured by binding. Line written to the right of lines 2115–17.</note>
+ <note type="tnote" n="515">2119<space rend="indent1"/><hi rend="italic">reseyve</hi>. MS: <hi rend="italic">s</hi> altered from <hi rend="italic">r</hi>.</note>
+ <note type="tnote" n="516">2122, s.d.<space rend="indent1"/><hi rend="italic">Gaudent in celis</hi>. MS: written to the right of lines 2120 and 2121.</note>
+ <note type="tnote" n="517">2126<space rend="indent1"/><hi rend="italic">game</hi>. So BMH. MS: <hi rend="italic">name</hi>.</note>
+ <note type="tnote" n="518">2131<space rend="indent1"/><hi rend="italic">sentens</hi>. MS: final letter missing with corner of this page.</note>
+ </div></body></text></TEI>

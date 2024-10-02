@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Coletti-DigbyMagdalene-08-Bib-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Bibliography</title><author>Coletti, Theresa</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp from="2017-05" to="2017-05">Checked and corrected bibliographic references</resp><resp from="2024-01" to="2024-04">Copyedited and proofread</resp><resp from="2017-05" to="2024-04">Ensured adherence to METS Style Guide</resp><resp from="2024-01" to="2024-04">Entered corrections for digital edition</resp><resp from="2017-05" to="2024-04">Entered corrections for print edition</resp><resp from="2024-01" to="2024-04">Formatted for print edition</resp><resp from="2024-01" to="2024-04">Formatted for XML export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2024-03" to="2024-06">Audited documents prior to print/export</resp><resp from="2024-06" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Harper, Alison</persName><resp from="2016-11" to="2017-01">Checked and corrected bibliographic references</resp><resp from="2016-11" to="2017-01">Ensured adherence to METS Style Guide</resp><resp from="2016-11" to="2017-01">Entered corrections for print edition</resp></respStmt><respStmt><persName>Johnson-Olin, Martha M.</persName><resp>Audited documents prior to print/export</resp><resp>Checked and corrected bibliographic references</resp><resp>Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp>Reviewed edition for consistency and audience</resp><resp>Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-06" to="2024-06">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-06" to="2024-06">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2016-12" to="2016-12">Copyedited and proofread</resp><resp from="2016-12" to="2016-12">Ensured adherence to METS Style Guide</resp><resp from="2016-12" to="2016-12">Reviewed edition for consistency and audience</resp><resp from="2016-12" to="2016-12">Reviewed edition for content and scholarship</resp><resp from="2016-12" to="2016-12">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-06" to="2024-06">Audited documents prior to print/export</resp><resp from="2024-06" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2017-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2017-01" to="2017-03">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2017-01" to="2017-03">Copyedited and proofread</resp><resp from="2017-01" to="2017-03">Ensured adherence to METS Style Guide</resp><resp from="2017-01" to="2017-03">Reviewed edition for consistency and audience</resp><resp from="2017-01" to="2017-03">Wrote reader report</resp></respStmt><respStmt><persName>Zaborny, Phillip</persName><resp from="2024-05" to="2024-05">Audited documents prior to print/export</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Ralph Arbelo</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Katherine Briant</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alison Harper</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Nathan Sarr</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>R. A. Shoaf</persName><orgName>University of Florida</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><editor>Coletti, Theresa</editor><title>The Digby Mary Magdalene Play</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2018</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/coletti-digbymagdalene/blob/main/coletti-digbymagdalene-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc><revisionDesc><change>Encoded in HTML</change></revisionDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Coletti-DigbyMagdalene-08-Bib"/><div type="text">
+ <p style="heading">Primary and Secondary Sources</p>
+ <listBibl><bibl>Akbari, Suzanne Conklin. <hi rend="italic">Idols in the East: European Representations of Islam and the Orient, 1100–1450</hi>. Ithaca, NY: Cornell University Press, 2009.</bibl>
+ <bibl>Alfonso of Jaén. “The Middle English <hi rend="italic">Epistola solitarii ad reges</hi> of Alfonso of Jaén: An Edition of the Text in London, British Library, MS Cotton Julius Fii.” In Voaden, <hi rend="italic">Prophets Abroad</hi>. Pp. 159–81.</bibl>
+ <bibl>Amos, Mark Addison. “‘Somme lords &amp; somme other of lower astates’: London’s Urban Elite and the Symbolic Battle for Status.” In Biggs et al. Pp. 159–75.</bibl>
+ <bibl><hi rend="italic">Ancient Mysteries from the Digby Manuscripts</hi>. Ed. Thomas Sharpe. Edinburgh: Edinburgh Printing Co. for the Abbotsford Club, 1835.</bibl>
+ <bibl>Anderson, Joanne W. “Mary Magdalene and Her Dear Sister: Innovation in the Late Medieval Mural Cycle of Santa Maddalena in Rencio (Bolzano).” In Erhardt and Morris. Pp. 45–73.</bibl>
+ <bibl>Angela of Foligno. <hi rend="italic">Angela of Foligno: Complete Works</hi>. Trans. Paul Lachance. Mahwah, NJ: Paulist Press, 1993.</bibl>
+ <bibl><hi rend="italic">Anglo-Norman Dictionary</hi>. Online at <ref target="http://anglo-norman.net" type="external">http://anglo-norman.net</ref>.</bibl>
+ <bibl>Anselm. <hi rend="italic">Prayers and Meditations of St. Anselm</hi>. Trans. Sister Benedicta Ward. Harmondworth: Penguin, 1973.</bibl>
+ <bibl><hi rend="italic">Antichrist and Judgement Day: The Middle French “Jour de Judgement.”</hi> Trans. Richard K. Emmerson and David F. Hult. Asheville, NC: Pegasus Press, 1998.</bibl>
+ <bibl>Appleford, Amy. “Shakespeare’s Katherine of Aragon: Last Medieval Queen, First Recusant Martyr.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 40 (2010), 149–72.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Learning to Die in London, 1380–1540</hi>. Philadelphia: University of Pennsylvania Press, 2015.</bibl>
+ <bibl>Ashley, Kathleen M. “‘Wyt’ and ‘Wysdam’ in N-Town Cycle.” <hi rend="italic">Philological Quarterly</hi> 58.2 (Spring 1979), 121–35.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;.“The Fleury Raising of Lazarus and Twelfth-Century Currents of Thought.” <hi rend="italic">Comparative Drama</hi> 15.2 (1981), 139–58.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Resurrection of Lazarus in the Late Medieval English and French Cycle Drama.” <hi rend="italic">Papers on Language and Literature</hi> 22.3 (Summer 1986), 227–44.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Image and Ideology: Saint Anne in Late Medieval Drama.” In <hi rend="italic">Interpreting Cultural Symbols</hi>. Ed. Kathleen Ashley and Pamela Sheingorn. Athens: University of Georgia Press, 1990. Pp. 111–30.</bibl>
+ <bibl>Atkin, Tamara. <hi rend="italic">The Drama of Reform: Theology and Theatricality, 1461–1553</hi>. Turnhout: Brepols, 2013.</bibl>
+ <bibl>Badham, Sally. “Mercantile Involvement in Religious Guilds.” In Barron and Sutton. Pp. 221–41.</bibl>
+ <bibl>Badir, Patricia. “‘To allure vnto their loue’: Iconoclasm and Striptease in Lewis Wager’s <hi rend="italic">The Life and Repentance of Marie Magdalene</hi>.” <hi rend="italic">Theatre Journal</hi> 51 (1999), 1–20.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Medieval Poetics and Protestant Magdalenes.” In <hi rend="italic">Reading the Medieval in Early Modern England</hi>. Ed. Gordon McMullan and David Matthews. Cambridge: Cambridge University Press, 2007. Pp. 205–19.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Maudlin Impression: English Literary Images of Mary Magdalene, 1550–1700</hi>. Notre Dame, IN: University of Notre Dame Press, 2009.</bibl>
+ <bibl>Baigent, Michael, Richard Leigh, and Henry Lincoln. <hi rend="italic">Holy Blood, Holy Grail</hi>. New York: Delacorte Press, 1982.</bibl>
+ <bibl>Baker, Donald C., and James L. Murphy. “The Late Medieval Plays of MS Digby 133: Scribes, Dates, and Early History.” <hi rend="italic">Research Opportunities in Renaissance Drama</hi> 10 (1967), 153–66.</bibl>
+ <bibl>Bale, John. <hi rend="italic">The Complete Plays of John Bale</hi>. 2 vols. Ed. Peter Happé. Cambridge: D. S. Brewer, 1985–86.</bibl>
+ <bibl>Barratt, Alexandra, ed. <hi rend="italic">Womens’ Writing in Middle English</hi>. London: Longman, 1992.</bibl>
+ <bibl>Barron, Caroline M., and Anne F. Sutton, eds. <hi rend="italic">The Medieval Merchant. Proceedings of the 2012 Harlaxton Symposium</hi>. Donington: Shaun Tyas, 2014.</bibl>
+ <bibl>Baskerville, Charles Read. <hi rend="italic">Pierre Gringore’s Pageants for the Entry of Mary Tudor into Paris</hi>. Chicago: University of Chicago Press, 1934.</bibl>
+ <bibl>Bates, David, and Robert Liddiard, eds. <hi rend="italic">East Anglia and Its North Sea World in the Middle Ages</hi>. Woodbridge: Boydell Press, 2013.</bibl>
+ <bibl>Bateson, Mary, ed. “The Register of Crabhouse Nunnery.” <hi rend="italic">Norfolk Archaeology</hi> 11 (1892), 1–71.</bibl>
+ <bibl>Beadle, Richard. “The Medieval Drama of East Anglia: Studies in Dialect, Documentary Records and Stagecraft.” 2 vols. Ph.D. dissertation. University of York, Centre for Medieval Studies, 1977.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Plays and Playing at Thetford and Nearby 1498–1540.” <hi rend="italic">Theatre Notebook</hi> 32.1 (1978), 4–11.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Prolegomena to a Literary Geography of Later Medieval Norfolk.” In <hi rend="italic">Regionalism in Late Medieval Manuscripts and Texts</hi>. Ed. Felicity Riddy. Cambridge: D. S. Brewer, 1991. Pp. 89–108.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">The Cambridge Companion to Medieval English Theatre</hi>. Cambridge: Cambridge University Press, 2006.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Macro MS 5: A Historical Reconstruction.” <hi rend="italic">Transactions of the Cambridge Bibliographical Society</hi> 16 (2016), 35–77.</bibl>
+ <bibl>Beckwith, Sarah. “<hi rend="italic">Sacrum Signum</hi>: Sacramentality and Dissent in York’s Theater of Corpus Christi.” In <hi rend="italic">Criticism and Dissent in the Middle Ages</hi>. Ed. Rita Copeland. Cambridge: Cambridge University Press, 1996. Pp. 264–88.</bibl>
+ <bibl>Ben-Tsur, Dalia. “Early Ramifications of Theatrical Iconoclasm: The Conversion of Catholic Biblical Plays into Protestant Drama.” <hi rend="italic">Partial Answers</hi> 3.1 (2005), 43–56.</bibl>
+ <bibl>Bennett, Jacob. “The <hi rend="italic">Mary Magdalene</hi> of Bishop’s Lynn.” <hi rend="italic">Studies in Philology</hi> 75 (1978), 1–9.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Meaning of the Digby <hi rend="italic">Mary Magdalen</hi>.” <hi rend="italic">Studies in Philology</hi> 101.1 (2004), 38–47.</bibl>
+ <bibl>Benskin, Michael. “The letters &lt;þ&gt; and &lt;y&gt; in Later Middle English, and Some Related Matters.” <hi rend="italic">Journal of the Society of Archivists</hi> 7 (1982), 13–30.</bibl>
+ <bibl>Benson, C. David. <hi rend="italic">The History of Troy in Middle English Literature: Guido delle Colonne’s</hi> Historia Destructionis Troiae <hi rend="italic">in Medieval England</hi>. Woodbridge: D. S. Brewer, 1980.</bibl>
+ <bibl>Bériou, Nicole. “La Madeleine dans les sermons parisiens du XIIIe siècle.” <hi rend="italic">Mélange de l’École français de Rome – Moyen Âge</hi> 104.1 (1992), 269–340.</bibl>
+ <bibl>Bernard of Clairvaux. <hi rend="italic">On the Song of Songs I</hi>. Trans. Kilian Walsh. Cistercian Fathers Series 4. Kalamazoo, MI: Cistercian Publications, 1976.</bibl>
+ <bibl>Bestul, Thomas H. “The Meditation on Mary Magdalene of Alexander Nequam.” <hi rend="italic">The Journal of Medieval Latin</hi> 9 (1999), 1–40.</bibl>
+ <bibl>Bevington, David, ed. <hi rend="italic">Medieval Drama</hi>. Boston: Houghton Mifflin, 1975.</bibl>
+ <bibl>Biggs, Douglas, Sharon D. Michalove, and A. Compton Reeves, eds. <hi rend="italic">Traditions and Transformations in Late Medieval England</hi>. Leiden: Brill, 2002.</bibl>
+ <bibl>Birney, Earle. “The Franklin’s ‘Sop in Wyn.’” <hi rend="italic">Notes and Queries</hi> n.s. 6.9 (October 1959), 345–47.</bibl>
+ <bibl>Blamires, Alcuin, ed. with Karen Pratt and C. W. Marx. <hi rend="italic">Woman Defamed and Woman Defended</hi>. Oxford: Clarendon Press, 1992.</bibl>
+ <bibl>Blamires, Alcuin. “Women and Preaching in Medieval Orthodoxy, Heresy, and Saints’ Lives.” <hi rend="italic">Viator</hi> 26 (1995), 135–52.</bibl>
+ <bibl>Bloomfield, Morton W. <hi rend="italic">The Seven Deadly Sins: An Introduction to the History of a Religious Concept</hi>. East Lansing: Michigan State University Press, 1952.</bibl>
+ <bibl>Boehnen, Scott. “The Aesthetics of ‘Sprawling’ Drama: The Digby <hi rend="italic">Mary Magdelene</hi> as Pilgrims’ Play.” <hi rend="italic">Journal of English and Germanic Philology</hi> 98 (1999), 325–52.</bibl>
+ <bibl>Bokenham, Osbern. <hi rend="italic">Legendys of Hooly Wummen</hi>. Ed. Mary S. Sarjeantson. EETS o.s. 206. London: Humphrey Milford, Oxford University Press, 1938.</bibl>
+ <bibl>Bourgeault, Cynthia. <hi rend="italic">The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity</hi>. Boston: Shambhala, 2010.</bibl>
+ <bibl>Brock, Ann Graham. <hi rend="italic">Mary Magdalene, The First Apostle: The Struggle for Authority</hi>. Cambridge, MA: Harvard University Press, 2003.</bibl>
+ <bibl>Brokaw, Katherine Steele. <hi rend="italic">Staging Harmony: Music and Religious Change in Late Medieval and Early Modern English Drama</hi>. Ithaca, NY: Cornell University Press, 2016.</bibl>
+ <bibl>Brown, Dan. <hi rend="italic">The Da Vinci Code</hi>. New York: Doubleday, 2003.</bibl>
+ <bibl>Burgess, Clive. “Making Mammon Serve God: Merchant Piety in Later Medieval England.” In Barron and Sutton. Pp. 183–207.</bibl>
+ <bibl>Burstein, Dan, and Arne J. De Keijzer, eds. <hi rend="italic">Secrets of Mary Magdalene: The Untold Story of History’s Most Misunderstood Woman</hi>. New York: CDS Books, 2006.</bibl>
+ <bibl>Bush, Jerome. “Resources of <hi rend="italic">Locus</hi> and <hi rend="italic">Platea</hi> Staging: The Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Studies in Philology</hi> 86.2 (1989), 139–65.</bibl>
+ <bibl>Butterworth, Philip. “Hellfire: Flame as Special Effect.” In Davidson and Seiler. Pp. 67–101.</bibl>
+ <bibl>Capgrave, John. <hi rend="italic">The Life of Saint Katherine</hi>. Ed. Karen A. Winstead. Kalamazoo, MI: Medieval Institute Publications, 1999.</bibl>
+ <bibl>Carruthers, Mary. “Sweetness.” <hi rend="italic">Speculum</hi> 81.4 (October 2006), 999–1013.</bibl>
+ <bibl>Carter, Susan. “The Digby <hi rend="italic">Mary Magdalen</hi>: Constructing the <hi rend="italic">Apostola Apostolorum</hi>.” <hi rend="italic">Studies in Philology</hi> 106.4 (2009), 402–19.</bibl>
+ <bibl><hi rend="italic">The Castle of Perseverance</hi>. Ed. David N. Klausner. Kalamazoo, MI: Medieval Institute Publications, 2010.</bibl>
+ <bibl>Cavalca, Domenico. <hi rend="italic">The Life of Mary Magdalen. Translated from the Italian of an Unknown Fourteenth-Century Writer</hi>. Trans. Valentina Hawtrey. London: John Lane, 1904.</bibl>
+ <bibl>Chaganti, Seeta. “The <hi rend="italic">Platea</hi>: Pre- and Postmodern: A Landscape of Medieval Performance Studies.” <hi rend="italic">Exemplaria</hi> 25.3 (2013), 252–64.</bibl>
+ <bibl><hi rend="italic">The Chastising of God’s Children and the Treatise of Perfection of the Sons of God</hi>. Ed. Joyce Bazire and Eric Colledge. Oxford: Basil Blackwell, 1957.</bibl>
+ <bibl>Chaucer, Geoffrey. <hi rend="italic">The Riverside Chaucer</hi>. Third edition. Ed. Larry D. Benson et al. Boston: Houghton Mifflin, 1987.</bibl>
+ <bibl>Chemers, Michael Mark. “Anti-Semitism, Surrogacy, and the Invocation of Mohammed in the <hi rend="italic">Play of the Sacrament</hi>.” <hi rend="italic">Comparative Drama</hi> 41.1 (2007), 25–55.</bibl>
+ <bibl><hi rend="italic">The Chester Mystery Cycle</hi>. Ed. David Mills. East Lansing, MI: Colleagues Press, 1992.</bibl>
+ <bibl><hi rend="italic">The Chester Mystery Cycle</hi>. Ed. R. M. Lumiansky and David Mills. 2 vols. EETS s.s. 3 and 9. Oxford: Oxford University Press, 1974 and 1986.</bibl>
+ <bibl>Christine de Pizan. <hi rend="italic">The Book of the City of Ladies</hi>. Trans. Earl Jeffrey Richards. New York: Persea Books, 1982.</bibl>
+ <bibl>Clichtove, Josse. “Epistle 124: Josse Clichtove to François du Moulin de Rochefort [Paris. Before July 22, 1518].” In Lefèvre, d’Etaples, Jacques. <hi rend="italic">The Prefatory Epistles of Jacques Lefèvre d’Etaples and Related Texts</hi>. Ed. Eugene F. Rice, Jr. New York: Columbia University Press, 1972. Pp. 399–406.</bibl>
+ <bibl>Clopper, Lawrence M. “The History and Development of the Chester Cycle.” <hi rend="italic">Modern Philology</hi> 75.3 (February 1978), 219–46.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “<hi rend="italic">Communitas</hi>: The Play of Saints in Late Medieval and Tudor England.” <hi rend="italic">Mediaevalia</hi> 18 (1995 [for 1992]), 81–109.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Drama, Play, and Game: English Festive Culture in the Medieval and Early Modern Period</hi>. Chicago: University of Chicago Press, 2001.</bibl>
+ <bibl><hi rend="italic">The Cloud of Unknowing and the Book of Privy Counselling</hi>. Ed. Phyllis Hodgson. EETS o.s. 218. 1944; rpt., London: Oxford University Press, 1981.</bibl>
+ <bibl><hi rend="italic">The Cloud of Unknowing and Related Treatises</hi>. Ed. Phyllis Hodgson. Analecta Cartusiana 3. Salzburg: Institut für Anglistik und Amerikanistik, Universität Salzberg, 1982.</bibl>
+ <bibl>Cockett, Peter. “The Actor’s Carnal Eye: A Contemporary Staging of the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Baylor Journal of Theatre and Performance</hi> 3.2 (2006), 67–83.</bibl>
+ <bibl>Coldewey, John. “The Digby Plays and the Chelmsford Records.” <hi rend="italic">Research Opportunities in Renaissance Drama</hi> 18 (1975), 103–21.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Non-Cycle Plays and the East Anglian Tradition.” In Beadle, <hi rend="italic">Cambridge Companion</hi>. 189–210.</bibl>
+ <bibl>Coletti, Theresa. “The Design of the Digby Play of <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Studies in Philology</hi> 76.4 (1979), 313–33.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Re-reading the Story of Herod in the Middle English Innocents Plays.” In <hi rend="italic">Retelling Tales: Essays in Honor of Russell Peck</hi>. Ed. Thomas Hahn and Alan Lupack. Woodbridge: D. S. Brewer, 1997. Pp. 35–59.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Genealogy, Sexuality, and Sacred Power: The Saint Anne Dedication of the Digby <hi rend="italic">Candlemas Day</hi> and the <hi rend="italic">Killing of the Children of Israel</hi>.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 29.1 (Winter 1999), 25–59.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “‘<hi rend="italic">Paupertas est donum Dei</hi>’: Hagiography, Lay Religion, and the Economics of Salvation in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Speculum</hi> 76.2 (2001), 337–78.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “‘Curtesy doth it yow lere’: The Sociology of Transgression in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">ELH</hi> 71.1 (2004), 1–28.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Mary Magdalene and the Drama of Saints: Theater, Gender, and Religion in Late Medieval England</hi>. Philadelphia: University of Pennsylvania Press, 2004.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Social Contexts of the East Anglian Saint Play: The Digby Mary Magdalene and the Late Medieval Hospital?” In <hi rend="italic">Medieval East Anglia</hi>. Ed. Christopher Harper-Bill. Woodbridge: Boydell Press, 2005. Pp. 287–301.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Digby <hi rend="italic">Mary Magdalene</hi>.” In Kastan. Pp. 170–73.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Digby Plays.” In Kastan. Pp. 174–77.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. Review of <hi rend="italic">Lady, Hero, Saint: The Digby Play’s Mary Magdalene</hi>, by Joanne Findon. <hi rend="italic">The Medieval Review</hi>. Indiana University. December 2012. Web. Online at <ref target="https://scholarworks.iu.edu/journals/index.php/tmr/article/view/17638/23756" type="external">https://scholarworks.iu.edu/journals/index.php/tmr/article/view/17638/23756</ref>.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Afterward.” In Loewen and Waugh. Pp. 276–90.</bibl>
+ <bibl><hi rend="italic">The Commonplace Book of Robert Reynes of Acle: An Edition of Tanner MS. 407</hi>. Ed. Cameron Louis. New York: Garland, 1980.</bibl>
+ <bibl>Cooper, Lisa H., and Andrea Denny-Brown, eds. <hi rend="italic">The</hi> Arma Christi <hi rend="italic">in Medieval and Early Modern Material Culture, with a Critical Edition of ‘O Vernicle.’</hi> Farnham; Burlington, VT: Ashgate, 2014.</bibl>
+ <bibl>Cornelius, Roberta. “The Figurative Castle: A Study of the Mediaeval Allegory of the Edifice with Especial Reference to Religious Writings.” Ph.D. dissertation. Bryn Mawr, 1930.</bibl>
+ <bibl>Cowling, Jane. “A Fifteenth-Century Saint Play in Winchester: Some Problems of Interpretation.” <hi rend="italic">Medieval and Renaissance Drama in England</hi> 13 (2001), 19–33.</bibl>
+ <bibl>Cox, John D. <hi rend="italic">The Devil and the Sacred in English Drama, 1350–1642</hi>. Cambridge: Cambridge University Press, 2000.</bibl>
+ <bibl>Craymer, Suzanne. “Margery Kempe’s Imitation of Mary Magdalene and the Digby Plays.” <hi rend="italic">Mystics Quarterly</hi> 19.4 (1993), 173–81.</bibl>
+ <bibl><hi rend="italic">The Croxton Play of the Sacrament</hi>. Ed. John T. Sebastian. Kalamazoo, MI: Medieval Institute Publications, 2012.</bibl>
+ <bibl>D’Ancona, Alessandro, ed. <hi rend="italic">Sacre Rappresentazione dei secoli XIV, XV, e XVI</hi>. 3 vols. Florence: Successori Le Monnier, 1872.</bibl>
+ <bibl>Davenport, Tony. “‘Lusty fresche galaunts.’” In <hi rend="italic">Aspects of Early English Drama</hi>. Ed. Paula Neuss. Cambridge: D. S. Brewer, 1983. Pp. 110–28.</bibl>
+ <bibl>Davidson, Clifford. “The Digby <hi rend="italic">Mary Magdalene</hi> and the Magdalene Cult of the Middle Ages.” <hi rend="italic">Annuale Mediævale</hi> 13 (1972), 70–87.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">The Saint Play in Medieval Europe</hi>. Kalamazoo, MI: Medieval Institute Publications, 1986.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Middle English Saint Play and Its Iconography.” In Davidson, <hi rend="italic">The Saint Play</hi>. Pp. 31–122.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Technology, Guilds, and Early English Drama</hi>. Kalamazoo, MI: Medieval Institute Publications, 1997.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “British Saint Play Records: Coping with Ambiguity.” <hi rend="italic">Early Theatre</hi> 2 (1999), 97–106.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Saint Plays and Pageants of Medieval Britain.” <hi rend="italic">Early Drama, Art, and Music Review</hi> 22 (1999), 11–37.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Violence and the Saint Play.” <hi rend="italic">Studies in Philology</hi> 98.3 (2001), 292–314.</bibl>
+ <bibl>Davidson, Clifford, and Thomas H. Seiler, eds. <hi rend="italic">The Iconography of Hell</hi>. Kalamazoo, MI: Medieval Institute Publications, 1992.</bibl>
+ <bibl>Davis, Matthew Evan. “The <hi rend="italic">Apostolesse</hi>’s Social Network: The Meaning of Mary Magdalene in Fifteenth-Century East Anglia.” Ph.D. dissertation. Texas A&amp;M University, 2013.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “As Above, So Below: Staging the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Theatre Notebook</hi> 70.2 (2017), 74–108.</bibl>
+ <bibl>Delaney, Sheila. <hi rend="italic">Impolitic Bodies: Poetry, Saints, and Society in Fifteenth-Century England</hi>. New York: Oxford University Press, 1998.</bibl>
+ <bibl>Delasanta, Rodney K., and Constance M. Rousseau. “Chaucer’s <hi rend="italic">Orygenes upon the Maudeleyne</hi>: A Translation.” <hi rend="italic">Chaucer Review</hi> 30.4 (1996), 319–42.</bibl>
+ <bibl><hi rend="italic">Deonise Hid Divinite and Other Treatises on Contemplative Prayer Related to “The Cloud of Unknowing.”</hi> Ed. Phyllis Hodgson. EETS o.s. 231. 1955; rpt. with corrections, London: Oxford University Press, 1958.</bibl>
+ <bibl>D’Evelyn, Charlotte, and Frances A. Foster. “Saints’ Legends.” In <hi rend="italic">A Manual of the Writings in Middle English, 1050–1500</hi>. Vol. 2. Ed. J. Burke Severs. Hamden, CT: Archon Books, 1970. Pp. 413–39, 556–635.</bibl>
+ <bibl><hi rend="italic">The Digby Plays</hi>. Ed. F. J. Furnivall. EETS e.s. 70. London: Oxford University Press, 1896; rpt. 1967.</bibl>
+ <bibl><hi rend="italic">The Digby Plays: Facsimiles of the Plays in Bodley MSS Digby 133 and e Museo 160</hi>. Introduction by Donald C. Baker and John L. Murphy. Leeds: University of Leeds, 1976.</bibl>
+ <bibl>DiSalvo, Gina Marie. “The Unexpected Saints: Hagiography and Early Modern Theater.” Ph.D. dissertation. Northwestern University, 2014.</bibl>
+ <bibl>Dixon, Mimi Still. “‘Thys Body of Mary’: ‘Femynyte’ and ‘Inward Mythe’ in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Mediaevalia</hi> 18 (1995 [for 1992]), 221–44.</bibl>
+ <bibl>Dubruck, Edelgard E., and Barbara I. Gusick, eds. <hi rend="italic">Death and Dying in the Middle Ages</hi>. New York: Peter Lang, 1999.</bibl>
+ <bibl>Duffy, Eamon. “Holy Maydens, Holy Wyfes: The Cult of Women Saints in Fifteenth- and Sixteenth-Century England.” In <hi rend="italic">Women in the Church</hi>. Ed. W. J. Sheils and Diana Wood. Oxford: Basil Blackwell, 1990. Pp. 175–96.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Stripping of the Altars: Traditional Religion in England 1400–1580</hi>. New Haven: Yale University Press, 1992.</bibl>
+ <bibl>Dugan, Holly. “Scent of a Woman: Performing the Politics of Smell in Later Medieval England.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 38.2 (Spring 2008), 229–52.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Ephemeral History of Perfume: Scent and Sense in Early Modern England</hi>. Baltimore, MD: Johns Hopkins University Press, 2011.</bibl>
+ <bibl>Dunlop, Fiona S. <hi rend="italic">The Late Medieval Interlude: The Drama of Youth and Aristocratic Masculinity</hi>. Woodbridge: York Medieval Press, 2007.</bibl>
+ <bibl><hi rend="italic">Early English Drama</hi>. Ed. John C. Coldewey. New York: Garland Publishing, 1993.</bibl>
+ <bibl><hi rend="italic">English Wycliffite Sermons</hi>. Ed. Anne Hudson and Pamela Gradon. 5 vols. Oxford: Clarendon Press, 1983–96.</bibl>
+ <bibl>Ehrstine, Glenn. “Framing the Passion: Mansion Staging as Visual Mnemonic.” In <hi rend="italic">Visualizing Medieval Performance</hi>. Ed. Elina Gertsman. Aldershot: Ashgate, 2008. Pp. 263–77.</bibl>
+ <bibl>Erhardt, Michelle A. “Introduction.” In Erhardt and Morris. Pp. 1–18.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Magdalene as Mirror: Trecento Franciscan Imagery in the Guidalotti-Rinuccini Chapel, Florence.” In Erhardt and Morris. Pp. 21–44.</bibl>
+ <bibl>Erhardt, Michelle A., and Amy M. Morris, eds. <hi rend="italic">Mary Magdalene: Iconographic Studies from the Middle Ages to the Baroque</hi>. Leiden: Brill, 2012.</bibl>
+ <bibl>Erler, Mary. “Spectacle and Sacrament: A London Parish Play in the 1530s.” <hi rend="italic">Modern Philology</hi> 91.4 (1994), 449–54.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “English Vowed Women at the End of the Middle Ages.” <hi rend="italic">Mediaeval Studies</hi> 57 (1995), 155–203.</bibl>
+ <bibl>Evans, Ruth. “Signs of the Body: Gender, Sexuality, and Space in York and the York Cycle.” In <hi rend="italic">Women’s Spaces: Patronage, Place, and Gender in the Medieval Church</hi>. Ed. Virginia Raguin and Sarah Stanbury. Albany, NY: SUNY Press, 2005. Pp. 23–45.</bibl>
+ <bibl>Findon, Joanne. “Napping in the Arbour in the Digby <hi rend="italic">Mary Magdalene</hi> Play.” <hi rend="italic">Early Theatre</hi> 9.2 (2006), 35–55.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Lady, Hero, Saint: The Digby Play’s Mary Magdalene</hi>. Toronto: Pontifical Institute of Mediaeval Studies, 2011.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “‘Now is aloft þat late was ondyr!’: Enclosure, Liberation, and Spatial Semantics in the Digby <hi rend="italic">Mary Magdalene</hi> Play.” In Loewen and Waugh. Pp. 247–57.</bibl>
+ <bibl>Fitzhenry, William. “Vernacularity and Theater: Gender and Religious Identity in East Anglian Drama.” Ph.D. dissertation. Duke University, 1997.</bibl>
+ <bibl>Freedman, Paul. <hi rend="italic">Out of the East: Spices and the Medieval Imagination</hi>. New Haven: Yale University Press, 2008.</bibl>
+ <bibl>Friesen, Ilsa E. “Saints as Helpers in Dying: The Hairy Holy Women Mary Magdalene, Mary of Egypt, and Wilgefortis in the Iconography of the Late Middle Ages.” In Dubruck and Gusick. Pp. 239–56.</bibl>
+ <bibl>Furnivall, Frederick J., ed. <hi rend="italic">The Fifty Earliest English Wills in the Court of Probate</hi>. EETS o.s. 78. London: Trübner and Co., 1882.</bibl>
+ <bibl>Gardner, Edmund G., ed. <hi rend="italic">The Cell of Self-Knowledge: Seven Early English Mystical Works Printed by Henry Pepwell in 1521</hi>. New York: Cooper Square Publishers, Inc., 1966.</bibl>
+ <bibl>Garth, Helen Meredith. <hi rend="italic">Saint Mary Magdalene in Medieval Literature</hi>. Baltimore, MD: Johns Hopkins University Press, 1950.</bibl>
+ <bibl>Geary, Patrick J. <hi rend="italic">Furta Sacra: Thefts of Relics in the Central Middle Ages</hi>. Princeton: Princeton University Press, 1978.</bibl>
+ <bibl>Georgianna, Linda. “Love So Dearly Bought: The Terms of Redemption in <hi rend="italic">The Canterbury Tales</hi>.” <hi rend="italic">Studies in the Age of Chaucer</hi> 12 (1990), 85–116.</bibl>
+ <bibl>Gertsman, Elina. “The Loci of Performance: Art, Theater, and Memory.” <hi rend="italic">Mediaevalia</hi> 28 (2007), 119–35.</bibl>
+ <bibl>Gibson, Gail McMurray. “‘<hi rend="italic">Porta Haec Clausa Erit</hi>’: Comedy, Conception, and Ezekiel’s Closed Door in the <hi rend="italic">Ludus Coventriae</hi> Play of ‘Joseph’s Return.’” <hi rend="italic">Journal of Medieval and Renaissance Studies</hi> 8.1 (1978), 137–56.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Bury St. Edmunds, John Lydgate, and the <hi rend="italic">N-Town Cycle</hi>.” <hi rend="italic">Speculum</hi> 56 (1981), 56–90.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Theater of Devotion: East Anglian Drama and Society in the Late Middle Ages</hi>. Chicago: University of Chicago Press, 1989.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;.“Saint Anne and the Religion of Childbed: Some East Anglian Texts and Talismans.” In <hi rend="italic">Interpreting Cultural Symbols: Saint Anne and Late Medieval Society</hi>. Ed. Kathleen Ashley and Pamela Sheingorn. Athens: University of Georgia Press, 1990. Pp. 95–110.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Manuscript as Sacred Object: Robert Hegge’s N-Town Plays.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 44.3 (2014), 503–29.</bibl>
+ <bibl>Gibson, Gail McMurray, and Theresa Coletti. “Lynn, Walsingham, Norwich.” In <hi rend="italic">Europe: A Literary History, 1348–1418</hi>. Ed. David Wallace. 2 vols. Oxford: Oxford University Press, 2016. 1:298–321.</bibl>
+ <bibl>Gilchrist, Roberta, and Marilyn Oliva. <hi rend="italic">Religious Women in Medieval East Anglia: History and Archaeology c. 1100–1540</hi>. Norwich: Centre of East Anglian Studies, University of East Anglia, 1993.</bibl>
+ <bibl>Godefroy, Frédéric. <hi rend="italic">Lexique de L’Ancien Français</hi>. Paris: Honoré Champion, 2003.</bibl>
+ <bibl>Godfrey, Bob. “The Machinery of Spectacle: The Performance Dynamic of the Play of <hi rend="italic">Mary Magdalen</hi> and Related Matters.” <hi rend="italic">European Medieval Drama</hi> 3 (1999), 145–59.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Digby <hi rend="italic">Mary Magdalen</hi> in Performance: A Merry Peripeteia.” In <hi rend="italic">The best pairt of our play: Essays Presented to John J. McGavin</hi>. Ed. Sarah Carpenter, Pamela M. King, Meg Twycross, and Greg Walker. Part 1. Special Issue, <hi rend="italic">Medieval English Theatre</hi> 37 (2015), 105–18.</bibl>
+ <bibl>Goldie, Matthew Boyd. “Audiences for Language-Play in Middle English Drama.” In Biggs et al. Pp. 177–216.</bibl>
+ <bibl>Goodall, John A. A. <hi rend="italic">God’s House at Ewelme: Life, Devotion, and Architecture in a Fifteenth-Century Almshouse</hi>. Aldershot: Ashgate, 2001.</bibl>
+ <bibl>Granger, Penny. <hi rend="italic">The N-Town Play: Drama and Liturgy in Medieval East Anglia</hi>. Woodbridge: D. S. Brewer, 2009.</bibl>
+ <bibl>Grantley, Darryll. “The Source of the Digby <hi rend="italic">Mary Magdalen</hi>.” <hi rend="italic">Notes and Queries</hi> 229 (1984), 457–59.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Saints’ Plays.” In Beadle, <hi rend="italic">Cambridge Companion</hi>. Pp. 265–89.</bibl>
+ <bibl>Greene, Richard Leighton. “Fortune.” <hi rend="italic">Dictionary of the Middle Ages</hi>. Vol. 5. Ed. Joseph Strayer. New York: Scribner’s, 1985. Pp. 145–47.</bibl>
+ <bibl>Gregory the Great. <hi rend="italic">Homilia 33</hi>. In <hi rend="italic">XL Homiliarum in Evangelia, Liber Secundus</hi>. In Migne 76:1238–46.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Homily 33.” In <hi rend="italic">Forty Gospel Homilies</hi>. Trans. Dom David Hurst. Kalamazoo, MI: Cistercian Publications, 1990. Pp. 268–79.</bibl>
+ <bibl>Guillaume le Clerc. “La vie de Madeleine.” Ed. Robert Reinsch. <hi rend="italic">Archiv</hi> 64 (1880), 85–94.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Saint Mary Magdalene</hi>. In Russell. Pp. 61–73, 187–98.</bibl>
+ <bibl>Harper-Bill, Christopher, ed. <hi rend="italic">Charters of the Medieval Hospitals of Bury St. Edmunds</hi>. Woodbridge: Boydell and Brewer, for the Suffolk Record Society, 1994.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">Medieval East Anlglia</hi>. Woodbridge and Rochester, NY: Boydell Press, 2005.</bibl>
+ <bibl>Harrod, Henry. “Extracts from Early Norfolk Wills.” <hi rend="italic">Norfolk Archaeology</hi> 1 (1847), 111–28.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Extracts from Early Wills in the Norwich Registries.” <hi rend="italic">Norfolk Archaeology</hi> 4 (1855), 317–39.</bibl>
+ <bibl>Haskins, Susan. <hi rend="italic">Mary Magdalen: Myth and Metaphor</hi>. New York: Harcourt, Brace and Co., 1993.</bibl>
+ <bibl>Hill, Carole. <hi rend="italic">Women and Religion in Late Medieval Norwich</hi>. Woodbridge and Rochester, NY: Boydell Press, 2010.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The <hi rend="italic">Liber Celestis</hi> of Bridget of Sweden (1302/3–1373) and Its Influence on the Household Culture of Some Late Medieval Norfolk Women.” In Bates and Liddiard. Pp. 301–14.</bibl>
+ <bibl>Hill-Vàsquez, Heather. <hi rend="italic">Sacred Players: The Politics of Response in the Middle English Religious Drama</hi>. Washington, DC: Catholic University of America Press, 2007.</bibl>
+ <bibl>Hilton, Walter. <hi rend="italic">Scala perfectionis</hi>. Westminster: Wynkyn de Worde, 1494. STC 14045.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Scale of Perfection</hi>. Trans. and intro. John P. H. Clark and Rosemary Dorward. Mahwah, NJ: Paulist Press, 1991.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Scale of Perfection</hi>. Ed. Thomas H. Bestul. Kalamazoo, MI: Medieval Institute Publications, 2000.</bibl>
+ <bibl>Holsinger, Bruce. “Analytical Survey 6: Medieval Literature and Cultures of Performance.” <hi rend="italic">New Medieval Literatures</hi> 6 (2003), 271–311.</bibl>
+ <bibl><hi rend="italic">The Holy Bible: Douay-Rheims Version</hi>. Rockford, IL: Tan Books and Publishers, 1899.</bibl>
+ <bibl>Horstmann, Carl, ed. <hi rend="italic">Altenglische Legenden: Neue Folge</hi>. Heilbronn: Henniger, 1881.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Prosalegenden. Die Legenden der MS. Douce 114.” <hi rend="italic">Anglia</hi> 8 (1885), 102–96.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Sammlung altenglischer Legenden</hi>. 1878. Rpt. Hildesheim: Georg Olms Verlag, 1969.</bibl>
+ <bibl>Hotchin, Julie. “The Nun’s Crown.” <hi rend="italic">Early Modern Women</hi> 4 (2009), 187–94.</bibl>
+ <bibl>Huber, Emily Rebekah. “‘For Y am sorwe, and sorwe ys Y’: Melancholy, Despair, and Pathology in Middle English Literature.” Ph.D. dissertation. University of Rochester, 2008.</bibl>
+ <bibl>Hubert, Ann. “Performing Piety: Preachers and Players in East Anglia, 1400–1520.” Ph.D. dissertation. University of Illinois at Urbana-Champaign, 2015.</bibl>
+ <bibl>Hudson, Anne, ed. <hi rend="italic">Selections from English Wycliffite Writings</hi>. Cambridge: Cambridge University Press, 1978.</bibl>
+ <bibl>Hugh of Floreffe. <hi rend="italic">The Life of Yvette of Huy</hi>. Trans. Jo Ann McNamara. Toronto: Peregrina Publishing, 1999.</bibl>
+ <bibl><hi rend="italic">Jacques Lefèvre D’Étaples and The Three Maries Debates</hi>. Introduction, text, and annotation by Sheila M. Porrer. Geneva: Droz, 2009.</bibl>
+ <bibl>Jacobus de Voragine. <hi rend="italic">The Golden Legend</hi>. Trans. William Granger Ryan. 2 vols. Princeton: Princeton University Press, 1993.</bibl>
+ <bibl>Jansen, Katherine Ludwig. “Maria Magdalena: <hi rend="italic">Apostolorum Apostola</hi>.” In Kienzle and Walker. Pp. 57–96.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Making of the Magdalen</hi>. Princeton: Princeton University Press, 2000.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Mary Magdalen.” In <hi rend="italic">Encyclopedia of Medieval Pilgrimage</hi>. Leiden: Brill, 2009. Pp. 386–90.</bibl>
+ <bibl>Jeffrey, David L. “English Saints’ Plays.” In <hi rend="italic">Medieval Drama</hi>. Ed. Neville Denny. London: Edward Arnold, 1973. Pp. 69–89.</bibl>
+ <bibl>Jennings, Margaret. “The Art of the Pseudo-Origen Homily <hi rend="italic">De Maria Magdalena</hi>.” <hi rend="italic">Medievalia et Humanistica</hi> 5 (1974), 139–52.</bibl>
+ <bibl>Johnson, Ian. “<hi rend="italic">Auctricitas</hi>? Holy Women and their Middle English Texts.” In Voaden, <hi rend="italic">Prophets Abroad</hi>. Pp. 177–97.</bibl>
+ <bibl>Johnston, Alexandra F. “<hi rend="italic">Wisdom</hi> and the Records: Is there a Moral?” In <hi rend="italic">The</hi> Wisdom <hi rend="italic">Symposium: Papers from the Trinity College Festival</hi>. Ed. Milla Cozart Riggio. New York: AMS Press, 1986. Pp. 87–102.</bibl>
+ <bibl>Johnston, Barbara J. “The Magdalene and ‘Madame’: Piety, Politics, and Personal Agenda in Louise of Savoy’s <hi rend="italic">Vie de la Magdalene</hi>.” In Erhardt and Morris. Pp. 269–93.</bibl>
+ <bibl>Jones, E. A., and Alexandra Walsham. “Introduction: Syon Abbey and Its Books: Origins, Influences and Transitions.” In <hi rend="italic">Syon Abbey and Its Books: Reading, Writing and Religion: c. 1400–1700</hi>. Ed. E. A. Jones and Alexandra Walsham. Woodbridge: Boydell, 2010. Pp. 1–38.</bibl>
+ <bibl>Jones, Mary Loubris. “How the Seven Deadly Sins ‘Dewoyde from þe Woman’ in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">American Notes and Queries</hi> 16.8 (1978), 118–19.</bibl>
+ <bibl>Julian of Norwich. <hi rend="italic">A Book of Showings to the Anchoress Julian of Norwich</hi>. Ed. Edmund Colledge and James Walsh. 2 parts. Toronto: Pontifical Institute of Mediaeval Studies, 1978.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Writings of Julian of Norwich: A Vision Showed to a Devout Woman and A Revelation of Love</hi>. Ed. Nicholas Watson and Jacqueline Jenkins. University Park: Pennsylvania State University Press, 2006.</bibl>
+ <bibl>Kane, John. “Mary Magdala: The Evolution of her Role in Medieval Drama.” <hi rend="italic">Studii medievali</hi>, 3rd series 26 (1985), 677–84.</bibl>
+ <bibl>Karras, Ruth. “Holy Harlots: Prostitute Saints in Medieval Legend.” <hi rend="italic">Journal of the History of Sexuality</hi> 1 (1990), 3–32.</bibl>
+ <bibl>Kastan, David Scott, et al. <hi rend="italic">The Oxford Encyclopedia of British Literature</hi>. Vol. 2. New York: Oxford University Press, 2006.</bibl>
+ <bibl>Kazik, Joanna. “Worshipping <hi rend="italic">Corpus Christi</hi>: Mary Magdalene in the English Mystery Cycles.” <hi rend="italic">Studia Anglica Posnaniensia</hi> 38 (2002), 295–309.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Public Body, Private Soul: Mary Magdalene in the Chosen Pageants in the English Mystery Cycles.” In <hi rend="italic">Representing Gender in Cultures</hi>. Ed. Elzbieta Oleksy and Joanna Rydzewska. Frankfurt: Peter Lang, 2004. Pp. 47–56.</bibl>
+ <bibl>Kempe, Margery. <hi rend="italic">The Book of Margery Kempe</hi>. Ed. Sanford Meech and Hope Emily Allen. EETS o.s. 212. 1940. Rpt., London: Oxford University Press, 1982.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Book of Margery Kempe</hi>. Ed. Barry Windeatt. Harlow: Longman, 2000.</bibl>
+ <bibl>Kerby-Fulton, Kathryn. <hi rend="italic">Books Under Suspicion: Censorship and Tolerance of Revelatory Writing in Late Medieval England</hi>. Notre Dame, IN: University of Notre Dame Press, 2006.</bibl>
+ <bibl>Keyser, Linda Migl. “Examining the Body Poetic: Representations of Illness and Healing in Late Medieval English Literature.” Ph.D. dissertation. University of Maryland, 1999.</bibl>
+ <bibl>Kienzle, Beverly Maryne, and Pamela J. Walker, eds. <hi rend="italic">Women Preachers and Prophets through Two Millennia of Christianity</hi>. Berkeley: University of California Press, 1998.</bibl>
+ <bibl>King, Karen L. “The Gospel of Mary Magdalene.” In <hi rend="italic">Searching the Scriptures</hi>. Vol. 2, <hi rend="italic">A Feminist Commentary</hi>. Ed. Elisabeth Schüssler Fiorenza. New York: Crossroad, 1994. Pp. 601–34.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Gospel of Mary.” In <hi rend="italic">The Complete Gospels: Annotated Scholars Version</hi>. Ed. Robert J. Miller. Sonoma, CA: Polebridge Press, 1994.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Prophetic Power and Women’s Authority: The Case of the <hi rend="italic">Gospel of Mary</hi> (Magdalen).” In Kienzle and Walker. Pp. 21–41.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Gospel of Mary of Magdala: Jesus and the First Woman Apostle</hi>. Santa Rosa, CA: Polebridge Press, 2003.</bibl>
+ <bibl>King, Laura Severt. “Sacred Eroticism, Rapturous Anguish: Christianity’s Penitent Prostitutes and the Vexation of Allegory, 1370–1608.” Ph.D. dissertation. University of California at Berkeley, 1993.</bibl>
+ <bibl>Kooper, Erik, ed. “Slack Water Poetry: An Edition of the <hi rend="italic">Craft of Lovers</hi>.” <hi rend="italic">English Studies</hi> 68 (1987), 473–89.</bibl>
+ <bibl>Kuchar, Gary. “Gender and Recusant Melancholia in Robert Southwell’s <hi rend="italic">Mary Magdalene’s Funeral Tears</hi>.” In <hi rend="italic">Catholic Culture in Early Modern England</hi>. Ed. Ronald Corthell, Frances E. Dolan, Christopher Higley, and Arthur F. Marotti. Notre Dame, IN: University of Notre Dame Press, 2007. Pp. 135–57.</bibl>
+ <bibl>“<hi rend="italic">La Règle des Fins Amans</hi>: Eine Beginenregel aus dem Ende des XIII Jahrhunderts.” Ed. Karl Christ. In <hi rend="italic">Philologische Studien aus dem romanische-germanischen Kulturkreise: Festsgabe Karl Voretzsch</hi>. Ed. B. Schädel and W. Mulertt. Halle: Max Niemeyer, 1927. Pp. 173–213.</bibl>
+ <bibl><hi rend="italic">La vie de Marie Magdaleine</hi>. Ed. Jacques Chocheyras and Graham Runnalls. Geneva: Droz, 1986.</bibl>
+ <bibl><hi rend="italic">Lamentatyon of Mary Magdaleyne</hi>. Ed. Bertha Skeat. Cambridge: Fabb and Tyler, 1897.</bibl>
+ <bibl>Langland, William. <hi rend="italic">A Vision of Piers Plowman: A Complete Edition of the B-Text</hi>. Ed. A. V. C. Schmidt. London: J. M. Dent and Sons, 1978.</bibl>
+ <bibl><hi rend="italic">The Late Medieval Religious Plays of Bodleian MSS Digby 133 and e Mus. 160</hi>. Ed. Donald C. Baker, John L. Murphy, and Louis B. Hall, Jr. EETS o.s. 283. Oxford: Oxford University Press, 1982.</bibl>
+ <bibl>Leshock, David. “The Representation of Islam in the Wakefield Corpus Christi Plays.” <hi rend="italic">Medieval Perspectives</hi> 11 (1996), 195–208.</bibl>
+ <bibl><hi rend="italic">The Life of Christina of Markyate: A Twelfth-Century Recluse</hi>. Ed. and trans. C. H. Talbot. 1959; rpt., Toronto: University of Toronto Press in association with the Medieval Academy of America, 1998.</bibl>
+ <bibl><hi rend="italic">The Life of Saint Mary Magdalene and of her Sister Martha</hi>. Ed. and trans. David Mycoff. Kalamazoo, MI: Cistercian Publications, 1989.</bibl>
+ <bibl>Lim, Hyunyang Kim. “‘Take Writing’: News, Information, and Documentary Culture in Late Medieval England.” Ph.D. dissertation. University of Maryland, College Park, 2006.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Pilate’s Special Letter: Writing, Theater, and Spiritual Knowledge in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Medieval and Early Modern English Studies</hi> 22 (2014), 1–20.</bibl>
+ <bibl>Loewen, Peter V. “The Conversion of Mary Magdalene and the Musical Legacy of Franciscan Piety in the Early German Passion Plays.” In <hi rend="italic">Speculum Sermonis: Interdisciplinary Reflections on the Medieval Sermon</hi>. Ed. Georgiana Donavin, Cary J. Nederman, and Richard Utz. Turnhout: Brepols, 2004. Pp. 235–58.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Mary Magdalene Preaches through Song: Feminine Expression in the Shrewsbury <hi rend="italic">Officium Resurrectionis</hi> and in Easter Dramas from the German Lands and Bohemia.” <hi rend="italic">Speculum</hi> 82.3 (2007), 595–641.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Mary Magdalene Converts Her Vanities through Song: Signs of Franciscan Spirituality and Preaching in Late-Medieval German Drama.” In Loewen and Waugh. Pp. 181–207.</bibl>
+ <bibl>Loewen, Peter V., and Robin Waugh, eds. <hi rend="italic">Mary Magdalene in Medieval Culture: Conflicted Roles</hi>. New York: Routledge, 2014.</bibl>
+ <bibl>Love, Nicholas. <hi rend="italic">Nicholas Love’s Mirror of the Blessed Life of Jesus Christ</hi>. Ed. Michael Sargent. New York: Garland, 1992.</bibl>
+ <bibl><hi rend="italic">Ludus Coventriae; or, the Plaie Called Corpus Christi</hi>. Ed. K. S. Block. EETS e.s. 120. 1922; rpt., London: Oxford University Press, 1960.</bibl>
+ <bibl>Lydgate, John. <hi rend="italic">The Minor Poems of John Lydgate</hi>. Vol. 1. Ed. Henry Noble MacCracken. EETS e.s. 107. 1911; rpt., Oxford: Oxford University Press, 1961.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Mummings and Entertainments</hi>. Ed. Claire Sponsler. Kalamazoo, MI: Medieval Institute Publications, 2010.</bibl>
+ <bibl>Maci, Stefania Maria. “The Language of <hi rend="italic">Mary Magdalene</hi> of the Bodleian MS Digby 133.” <hi rend="italic">Linguistica e Filologia</hi> 10 (1999), 105–39.</bibl>
+ <bibl>Maclean, Sally-Beth. “Saints on Stage: An Analytical Survey of Dramatic Records in the West of England.” <hi rend="italic">Early Theatre</hi> 2 (1999), 45–62.</bibl>
+ <bibl><hi rend="italic">The Macro Plays</hi>. Ed. Mark Eccles. EETS o.s. 262. London: Oxford University Press, 1969.</bibl>
+ <bibl>Maltman, Sister Nicholas. “Light In and On the Digby <hi rend="italic">Mary Magdalene</hi>.” In <hi rend="italic">Saints, Scholars, and Heroes: Studies in Medieval Culture in Honour of Charles W. Jones</hi>. Vol. 1. Ed. Margot H. King and Wesley M. Stevens. Collegeville, MN: Hill Monastic Manuscript Library, St. John’s Abbey and University, 1979. Pp. 257–80.</bibl>
+ <bibl>Malvern, Marjorie. <hi rend="italic">Venus in Sackcloth: The Magdalen’s Origins and Metamorphoses</hi>. Carbondale: Southern Illinois University Press, 1975.</bibl>
+ <bibl>Marjanen, Antti. <hi rend="italic">The Woman Jesus Loved: Mary Magdalene in the Nag Hammadi Library and Related Documents</hi>. Leiden: Brill, 1996.</bibl>
+ <bibl><hi rend="italic">The Mary Play from the N.Town Manuscript</hi>. Ed. Peter Meredith. London: Longman, 1987.</bibl>
+ <bibl>McCall, John. “Chaucer and the Pseudo-Origen <hi rend="italic">De Maria Magdalena</hi>: A Preliminary Study.” <hi rend="italic">Speculum</hi> 46 (1971), 491–509.</bibl>
+ <bibl>McClain, Lisa. “‘They have taken away my Lord’: Mary Magdalene, Christ’s Missing Body, and the Mass in Reformation England.” <hi rend="italic">Sixteenth Century Journal</hi> 38.1 (2007), 77–96.</bibl>
+ <bibl>McKinell, John. “Staging the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Medieval English Theatre</hi> 6 (1984), 127–53.</bibl>
+ <bibl>Mead, Stephen X. “Four-fold Allegory in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Renascence</hi> 43.4 (1991), 269–82.</bibl>
+ <bibl>Mechtild of Hackeborn. <hi rend="italic">The Booke of Gostlye Grace of Mechtild of Hackeborn</hi>. Ed. Theresa A. Halligan. Toronto: Pontifical Institute of Mediaeval Studies, 1979.</bibl>
+ <bibl><hi rend="italic">Meditations on the Life of Christ: An Illustrated Manuscript of the Fourteenth Century</hi>. Trans. Isa Ragusa. Ed. Isa Ragusa and Rosalie B. Green. Princeton: Princeton University Press, 1977.</bibl>
+ <bibl>Meredith, Peter, and John Tailby, eds. <hi rend="italic">The Staging of Religious Drama in Europe in the Later Middle Ages: Texts and Documents in English Translation</hi>. Kalamazoo, MI: Medieval Institute Publications, 1983.</bibl>
+ <bibl><hi rend="italic">Middle English Legends of Women Saints</hi>. Ed. Sherry L. Reames. Kalamazoo, MI: Medieval Institute Publications, 2003.</bibl>
+ <bibl>Migne, J.-P. <hi rend="italic">Patrologiae Cursus Completus, Series Latina</hi>. 221 vols. Paris: Garnier Press, 1844–64.</bibl>
+ <bibl>Milner, Susannah. “Flesh and Food: The Function of Female Asceticism in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Philological Quarterly</hi> 73.4 (1994), 385–401.</bibl>
+ <bibl>Minnis, Alastair, and Rosalynn Voaden, eds. <hi rend="italic">Medieval Holy Women in the Christian Tradition, c. 1100–c. 1500</hi>. Turnhout: Brepols, 2010.</bibl>
+ <bibl>Mirk, John. <hi rend="italic">Mirk’s Festial</hi>. Ed. Theodor Erbe. EETS e.s. 96. London: Kegan Paul, Trench, Trübner &amp; Co., 1905; rpt., Millwood, NY: Kraus, 1973.</bibl>
+ <bibl>Mitchell-Buck, Heather S. “Tyrants, Tudors, and the Digby <hi rend="italic">Mary Magdalen</hi>.” <hi rend="italic">Comparative Drama</hi> 48.3 (2014), 241–59.</bibl>
+ <bibl>Moore, Samuel. “Patrons of Letters in Norfolk and Suffolk, c. 1450.” <hi rend="italic">PMLA</hi> 27.2 (1912), 188–207; and 28.1 (1913), 79–105.</bibl>
+ <bibl>Moreton, C. E. <hi rend="italic">The Townshends and Their World: Gentry, Law, and Land in Norfolk c. 1450–1551</hi>. Oxford: Clarendon Press, 1992.</bibl>
+ <bibl>Mormando, Franco. “‘Virtual Death’ in the Middle Ages: The Apotheosis of Mary Magdalene in Popular Preaching.” In Dubruck and Gusick. Pp. 257–74.</bibl>
+ <bibl>Morris, Amy M. “The German Iconography of the <hi rend="italic">Saint Magdalene Altarpiece</hi>: Documenting Its Context.” In Erhardt and Morris. Pp. 75–104.</bibl>
+ <bibl>Morrison, Susan Signe. <hi rend="italic">Women Pilgrims in Late Medieval England: Private Piety as Public Performance</hi>. London and New York: Routledge, 2000.</bibl>
+ <bibl>Moser, Thomas C. Jr. “‘And I Mon Wax Wod’: The Middle English ‘Foweles in the Frith.’” <hi rend="italic">PMLA</hi> 102.3 (May 1987), 326–37.</bibl>
+ <bibl>“MS Digby 133.” <hi rend="italic">Digital Bodleian</hi>. Bodleian Libraries, University of Oxford. Web. Online at <ref target="http://image.ox.ac.uk/show?collection=bodleian&amp;manuscript=msdigby133" type="external">http://image.ox.ac.uk/show?collection=bodleian&amp;manuscript=msdigby133</ref>.</bibl>
+ <bibl>Mycoff, David A., ed. <hi rend="italic">A Critical Edition of the Legend of Mary Magdalena from Caxton’s Golden Legende of 1483</hi>. Salzburg: Institut für Anglistik und Amerikanistik, Universität Salzburg, 1985.</bibl>
+ <bibl><hi rend="italic">The Myroure of Oure Ladye</hi>. Ed. John Henry Blunt. EETS e.s. 19. 1873; rpt., Millwood, NY: Kraus, 1981.</bibl>
+ <bibl><hi rend="italic">The N-Town Play, Cotton MS Vespasian D.8</hi>. Ed. Stephen Spector. 2 vols. EETS s.s. 11 and 12. Oxford: Oxford University Press, 1991.</bibl>
+ <bibl><hi rend="italic">The N-Town Plays</hi>. Ed. Douglas Sugano. Kalamazoo, MI: Medieval Institute Publications, 2007.</bibl>
+ <bibl>Nequam, Alexander. See Bestul, “The Meditation on Mary Magdalen.”</bibl>
+ <bibl><hi rend="italic">The New Testament: Douay Version</hi>. Introduction by Laurence Bright. London: Sheed and Ward, 1977.</bibl>
+ <bibl>Nicolas, Nicholas Harris. <hi rend="italic">Privy Purse Expenses of Elizabeth of York: Wardrobe Accounts of Edward the Fourth. With a Memoir of Elizabeth of York, and Notes</hi>. London: William Pickering, 1830.</bibl>
+ <bibl><hi rend="italic">Non-Cycle Plays and Fragments</hi>. Ed. Norman Davis. EETS s.s. 1. London: Oxford University Press, 1970.</bibl>
+ <bibl>Normington, Katie. <hi rend="italic">Gender and Medieval Drama</hi>. Cambridge: D. S. Brewer, 2004.</bibl>
+ <bibl>Northway, Kara. “It’s All in the Delivery: An Archival Study of Players’ Off-Stage Letter-Carrying.” <hi rend="italic">ROMARD: Research on Medieval and Renaissance Drama</hi> 50 (2012), 73–92.</bibl>
+ <bibl>Odo of Cluny. <hi rend="italic">In veneratione sanctæ Mariæ Magdalenæ</hi>. In Migne 133:713–21.</bibl>
+ <bibl>Oldland, John. “The Expansion of London’s Overseas Trade from 1475 to 1520.” In Barron and Sutton. Pp. 55–92.</bibl>
+ <bibl>Oliva, Marilyn. <hi rend="italic">The Convent and the Community in Late Medieval England: Female Monasteries in the Diocese of Norwich, 1350–1540</hi>. Woodbridge and Rochester, NY: Boydell Press, 1998.</bibl>
+ <bibl>Ortenberg, Veronica. “Le Culte de Sainte Marie Madeleine dans L’Angleterre Anglo-Saxonne.” <hi rend="italic">Mélanges de l’École Française de Rome – Moyen Âge</hi> 104.1 (1992), 13–35.</bibl>
+ <bibl>Ovid. <hi rend="italic">Metamorphoses: Books I–VIII</hi>. Trans. Frank Justus Miller; revised by G. P. Goold. Third edition. Vol. 1. Cambridge, MA: Harvard University Press, 1977.</bibl>
+ <bibl>Owen, Dorothy M., ed. <hi rend="italic">The Making of King’s Lynn: A Documentary Survey</hi>. London: Oxford University Press for the British Academy, 1984.</bibl>
+ <bibl>Palmer, Barbara D. “Gestures of Greeting: Annunciations, Sacred and Secular.” In <hi rend="italic">Gesture in Medieval Drama and Art</hi>. Ed. Clifford Davidson. Kalamazoo, MI: Medieval Institute Publications, 2001. Pp. 128–57.</bibl>
+ <bibl><hi rend="italic">The Passion Play from the N.Town Manuscript</hi>. Ed. Peter Meredith. London: Longman, 1990.</bibl>
+ <bibl><hi rend="italic">Paston Letters and Papers of the Fifteenth Century</hi>. Ed. Norman Davis. 2 vols. Oxford: Oxford University Press, 1971 and 1976.</bibl>
+ <bibl>Pearson, Andrea G. “Gendered Subject, Gendered Spectator: Mary Magdalen in the Gaze of Margaret of York.” <hi rend="italic">Gesta</hi> 44.1 (2005), 47–66.</bibl>
+ <bibl>Peter Chrysologus. <hi rend="italic">Sermo 74, De resurrectione Christi</hi>. In Migne 52:408–11.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Sermo 75, De resurrectione Christi</hi>. In Migne 52: 411–14.</bibl>
+ <bibl>Peter Comestor (attributed to Hildebert de Lavardin). <hi rend="italic">In festo sanctæ Magdalenæ Sermo unicus</hi>. In Migne 171:671–78.</bibl>
+ <bibl>Peter of Celle. <hi rend="italic">Sermo 60. In festivitate sanctæ Mariæ Magdalenæ I</hi>. In Migne 202:822–25.</bibl>
+ <bibl>Pfaff, R. W. <hi rend="italic">New Liturgical Feasts in the Middle Ages</hi>. Oxford: Clarendon Press, 1970.</bibl>
+ <bibl><hi rend="italic">Philippe de Mézières’ Campaign for the Feast of Mary’s Presentation</hi>. Ed. William E. Coleman. Toronto: Pontifical Institute of Mediaeval Studies, 1981.</bibl>
+ <bibl>Phillips, Kristina Rutledge. “Civil and Spiritual Disobedience in the Early Drama of East Anglia.” Ph.D. dissertation. Catholic University of America, 2006.</bibl>
+ <bibl><hi rend="italic">The Play of Mary Magdalene</hi>. Ed. L. E. Lewis. Ph. D. dissertation. University of Wisconsin–Madison, 1963.</bibl>
+ <bibl>Preston, Michael J. <hi rend="italic">A Concordance to the Digby Plays and the e Mus[eo] 160 Christ’s Burial and Resurrection</hi>. Ann Arbor, MI: Xerox University Microfilms, 1977.</bibl>
+ <bibl>Proctor, Francis and Christopher Wordsworth, eds. <hi rend="italic">Breviarium ad Usum Insignis Ecclesiae Sarum</hi>. Cambridge: Cambridge University Press, 1879–86.</bibl>
+ <bibl>Radulph Ardentis. <hi rend="italic">Homilia 25. In festo beatæ Mariæ Magdalenæ</hi>. In Migne 155:1397–402.</bibl>
+ <bibl>Raskolnikov, Masha. “Confessional Literature, Vernacular Psychology, and the History of the Self in Middle English.” <hi rend="italic">Literature Compass</hi> 2.1 (2005), 1–20.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Body Against Soul: Gender and Sowlehele in Middle English Allegory</hi>. Columbus: Ohio State University Press, 2009.</bibl>
+ <bibl>Rastall, Richard. “Female Roles in All-Male Casts.” <hi rend="italic">Medieval English Theatre</hi> 7 (1985), 25–50.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Sounds of Hell.” In Davidson and Seiler. Pp. 102–31.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Heaven Singing: Music in Early Religious Drama</hi>. Vol. 1. Cambridge: D. S. Brewer, 1996.</bibl>
+ <bibl>Rawcliffe, Carole. <hi rend="italic">The Hospitals of Medieval Norwich</hi>. Norwich: Centre of East Anglian Studies, University of East Anglia, 1995.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Medicine for the Soul: The Life, Death, and Resurrection of an English Medieval Hospital</hi>. Stroud: Sutton, 1998.</bibl>
+ <bibl><hi rend="italic">Records of Early English Drama: Chester</hi>. Ed. Lawrence M. Clopper. Toronto: University of Toronto Press, 1979.</bibl>
+ <bibl><hi rend="italic">Records of Early English Drama: Norwich, 1540–1642</hi>. Ed. David Galloway. Toronto: University of Toronto Press, 1984.</bibl>
+ <bibl><hi rend="italic">Records of Plays and Players in Norfolk and Suffolk, 1330–1642</hi>. Ed. David Galloway and John Wasson. Oxford: Oxford University Press, 1981.</bibl>
+ <bibl>Renevey, Denis. “Name above Names: Devotion to the Name of Jesus from Richard Rolle to Walter Hilton’s <hi rend="italic">Scale of Perfection 1</hi>.” In <hi rend="italic">The Medieval Mystical Tradition: England, Ireland and Wales: Papers Read at Charney Manor, July 1999</hi>. Ed. Marion Glasscoe. Cambridge: D. S. Brewer, 1999. Pp. 102–21.</bibl>
+ <bibl><hi rend="italic">Revelations of Saint Birgitta</hi>. Ed. William Patterson Cumming. EETS o.s. 178. 1929; rpt., Millwood, NY: Kraus, 1971.</bibl>
+ <bibl>Ricci, Carla. <hi rend="italic">Mary Magdalene and Many Others: Women who Followed Jesus</hi>. Minneapolis, MN: Fortress Press, 1994.</bibl>
+ <bibl>Richmond, Colin. <hi rend="italic">The Paston Family in the Fifteenth Century: The First Phase</hi>. Cambridge: Cambridge University Press, 1990.</bibl>
+ <bibl>Riggio, Milla Cozart. “The Allegory of Feudal Acquisition in <hi rend="italic">The Castle of Perseverance</hi>.” In <hi rend="italic">Allegory, Myth, and Symbol</hi>. Ed. Morton W. Bloomfield. Cambridge, MA: Harvard University Press, 1981. Pp. 187–208.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;, ed. <hi rend="italic">The Play of “Wisdom”: Its Texts and Contexts</hi>. New York: AMS Press, 1998.</bibl>
+ <bibl>Ritchie, Harry M. “A Suggested Location for the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Theatre Survey</hi> 4 (1963), 51–58.</bibl>
+ <bibl>Rochester, Joanne M. “Space and Staging in the Digby <hi rend="italic">Mary Magdalen</hi> and <hi rend="italic">Pericles, Prince of Tyre</hi>.” <hi rend="italic">Early Theatre</hi> 13.2 (2010), 43–62.</bibl>
+ <bibl>Rogers, Alan. “Contrasting Careers: William Browne of Stamford and Social Mobility in the Later Fifteenth Century.” In Barron and Sutton. Pp. 93–110.</bibl>
+ <bibl>Rolle, Richard. <hi rend="italic">The Fire of Love and the Mending of Life or The Rule of Living</hi>. Ed. R. Harvey. EETS o.s. 106. London: K. Paul, Trench, Trübner and Co., 1896.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Song of Angels</hi>. In Gardner. Pp. 63–73.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Richard Rolle: Prose and Verse from MS Longleat 29 and Related Manuscripts</hi>. Ed. S. J. Ogilvie-Thomson. EETS o.s. 293. Oxford: Oxford University Press, 1988.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Richard Rolle: The English Writings</hi>. Ed. and trans. Rosamund Allen. Mahwah, NJ: Paulist Press, 1988.</bibl>
+ <bibl>Rosenthal, Joel. <hi rend="italic">The Purchase of Paradise: Gift Giving and the Aristocracy, 1307–1485</hi>. London: Routledge and Kegan Paul, 1972.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Local Girls Do It Better: Women and Religion in Late Medieval East Anglia.” In Biggs et al. Pp. 1–20.</bibl>
+ <bibl>Ross, David, ed. “Fairford, St Mary’s Church.” <hi rend="italic">Britain Express</hi>. Britain Express Limited, 1996. Web. Online at <ref target="http://www.britainexpress.com/attractions.htm?attraction=1564" type="external">http://www.britainexpress.com/attractions.htm?attraction=1564</ref>.</bibl>
+ <bibl>Russell, Delbert W., trans. <hi rend="italic">Verse Saints’ Lives Written in the French of England</hi>. Medieval and Renaissance Texts and Studies 431. Tempe, AZ: ACMRS, 2012.</bibl>
+ <bibl>Sadlack, Erin A. <hi rend="italic">The French Queen’s Letters: Mary Tudor Brandon and the Politics of Marriage in Sixteenth-Century Europe</hi>. New York: Palgrave Macmillan, 2011.</bibl>
+ <bibl>Salih, Sarah. “Staging Conversion: The Digby Saint Plays and <hi rend="italic">The Book of Margery Kempe</hi>.” In <hi rend="italic">Gender and Holiness: Men, Women, and Saints in Late Medieval England</hi>. Ed. Samantha J. E. Riches and Sarah Salih. London and New York: Routledge, 2002. Pp. 121–34.</bibl>
+ <bibl>Sanok, Catherine. “Performing Feminine Sanctity in Late Medieval England: Parish Guilds, Saints’ Plays, and the <hi rend="italic">Second Nun’s Tale</hi>.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 32.2 (2002), 269–303.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Her Life Historical: Exemplarity and Female Saints’ Lives in Late Medieval England</hi>. Philadelphia: University of Pennsylvania Press, 2007.</bibl>
+ <bibl>Scherb, Victor I. “Worldly and Sacred Messengers in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">English Studies</hi> 73.1 (1992), 1–9.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Blasphemy and the Grotesque in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Studies in Philology</hi> 96.3 (1999), 225–40.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Staging Faith: East Anglian Drama in the Later Middle Ages</hi>. Madison, NJ: Fairleigh Dickinson University Press, 2001.</bibl>
+ <bibl>Schmidt, Victor M. “Mary Magdalen and the Risen Christ: Changing Perspectives.” In <hi rend="italic">To Touch or Not to Touch? Interdisciplinary Perspectives on the Noli me tangere</hi>. Ed. Reimund Bieringer, Karlijn Demasure, and Barbara Baert. Leuven: Peeters, 2013. Pp. 179–225.</bibl>
+ <bibl>Schreyer, Kurt A. <hi rend="italic">Shakespeare’s Medieval Craft: Remnants of the Mysteries on the London Stage</hi>. Ithaca, NY: Cornell University Press, 2014.</bibl>
+ <bibl>Scoville, Chester N. <hi rend="italic">Saints and the Audience in Middle English Biblical Drama</hi>. Toronto: University of Toronto Press, 2004.</bibl>
+ <bibl>Sebastian, John Thomas. “Lewd Imaginings: Pedagogy, Piety, and Performance in Late Medieval East Anglia.” Ph.D. dissertation. Cornell University, 2004.</bibl>
+ <bibl>Shklar, Ruth. “Cobham’s Daughter: <hi rend="italic">The Book of Margery Kempe</hi> and the Power of Heterodox Thinking.” <hi rend="italic">Modern Language Quarterly</hi> 56.3 (1995), 277–304.</bibl>
+ <bibl>Shugar, Debora Kuller. “Saints and Lovers: Mary Magdalene and the Ovidian Evangel.” <hi rend="italic">Bucknell Review</hi> 35 (1992), 150–71.</bibl>
+ <bibl><hi rend="italic">Sister Catherine (Schwester Katrei)</hi>. Trans. Elvira Borgstädt. In <hi rend="italic">Meister Eckhart: Teacher and Preacher</hi>. Ed. Bernard McGinn, with Frank Tobin and Elvira Borgstädt. Mahwah, NJ: Paulist Press, 1986. Pp. 347–87.</bibl>
+ <bibl>Smith, D. K. “‘To passe the see in shortt space’: Mapping the World in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Medieval and Renaissance Drama in England</hi> 18 (2005), 193–214.</bibl>
+ <bibl>Smith, Nicole D. <hi rend="italic">Sartorial Strategies: Outfitting Aristocrats and Fashioning Conduct in Late Medieval Literature</hi>. Notre Dame, IN: University of Notre Dame Press, 2012.</bibl>
+ <bibl><hi rend="italic">Speculum Sacerdotale</hi>. Ed. Edward H. Weatherly. EETS o.s. 200. Oxford: Oxford University Press, 1936.</bibl>
+ <bibl>Sponsler, Claire. <hi rend="italic">Drama and Resistance: Bodies, Goods, and Theatricality in Late Medieval England</hi>. Minneapolis: University of Minnesota Press, 1997.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Queen’s Dumbshows: John Lydgate and the Making of Early Theater</hi>. Philadelphia: University of Pennsylvania Press, 2014.</bibl>
+ <bibl><hi rend="italic">The Stacions of Rome, . . . and The Pilgrims Sea-Voyage, . . . with Clene Maydenhod</hi>. Ed. F. J. Furnivall and William Michael Rossetti. EETS o.s. 25. London: N. Trübner and Co., 1867.</bibl>
+ <bibl>Stokes, James. “Women and Performance in Medieval and Early Modern Suffolk.” <hi rend="italic">Early Theatre</hi> 15.1 (2012), 27–43.</bibl>
+ <bibl>Streitman, Elsa. “The Face of Janus: Debatable Issues in <hi rend="italic">Mariken van Nieumeghen</hi>.” <hi rend="italic">Comparative Drama</hi> 27.1 (Spring 1993), 64–82.</bibl>
+ <bibl>Strohm, Paul. “Three London Itineraries: Aesthetic Purity and the Composing Process.” In <hi rend="italic">Theory and the Premodern Text</hi>. Minneapolis: University of Minnesota Press, 2000. Pp. 3–19.</bibl>
+ <bibl>Sugano, Douglas. “‘This game wel pleyd in good a-ray’: The N-Town Playbooks and East Anglian Games.” <hi rend="italic">Comparative Drama</hi> 28.2 (1994), 221–34.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Apologies for the Magdalene: Devotion, Iconoclasm, and the <hi rend="italic">N-Town Plays</hi>.” <hi rend="italic">Research Opportunities in Renaissance Drama</hi> 33 (1994), 165–76.</bibl>
+ <bibl>Symes, Carol. <hi rend="italic">A Common Stage: Theater and Public Life in Medieval Arras</hi>. Ithaca, NY: Cornell University Press, 2007.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Medieval Archive and the History of Theatre: Assessing the Written and Unwritten Evidence for Premodern Performance.” <hi rend="italic">Theatre Survey</hi> 52.1 (2011), 29–58.</bibl>
+ <bibl>Tamburr, Karl. <hi rend="italic">The Harrowing of Hell in Medieval England</hi>. Cambridge: D. S. Brewer, 2007.</bibl>
+ <bibl>Tanner, Norman P., ed. <hi rend="italic">Heresy Trials in the Diocese of Norwich, 1428–31</hi>. London: Royal Historical Society, 1977.</bibl>
+ <bibl>Taylor, Larissa Juliet. “Apostle to the Apostles: The Complexity of Medieval Preaching about Mary Magdalene.” In Loewen and Waugh. Pp. 33–50.</bibl>
+ <bibl><hi rend="italic">Testamenta Eboracensia: A Selection of Wills from the Registry at York</hi>. Ed. James Raine. Vol. 4. Surtees Society 53. Durham: Andrews &amp; Co., 1869.</bibl>
+ <bibl>Thimmes, Pamela. “Memory and Re-Vision: Mary Magdalene Research since 1975.” <hi rend="italic">Currents in Research: Biblical Studies</hi> 6 (1998), 193–226.</bibl>
+ <bibl>Thomas à Kempis. <hi rend="italic">Imitatio Christi. The following of Christ, translated out of Latin into English</hi>. London: 1556. STC 23967.</bibl>
+ <bibl><hi rend="italic">The Towneley Plays</hi>. Ed. Martin Stevens and A. C. Cawley. 2 vols. EETS s.s. 13 and 14. Oxford: Oxford University Press, 1994.</bibl>
+ <bibl><hi rend="italic">A Tretise of Miraclis Pleyinge</hi>. Ed. Clifford Davidson. Kalamazoo, MI: Medieval Institute Publications, 1993.</bibl>
+ <bibl><hi rend="italic">Two Coventry Corpus Christi Plays</hi>. Ed. Pamela M. King and Clifford Davidson. Kalamazoo, MI: Medieval Institute Publications, 2000.</bibl>
+ <bibl>Twycross, Meg, and Elisabeth Dutton. “Lydgate’s <hi rend="italic">Mumming for the Mercers of London</hi>.” In Barron and Sutton. Pp. 310–49.</bibl>
+ <bibl>Tymms, Samuel, ed. <hi rend="italic">Wills and Inventories from the Registers of the Commissary of Bury St. Edmunds and the Archdeacon of Sudbury</hi>. London: J. B. Nichols and Son, 1850.</bibl>
+ <bibl>Vaughn, Virginia Mason. <hi rend="italic">Performing Blackness on English Stages, 1500–1800</hi>. Cambridge: Cambridge University Press, 2005.</bibl>
+ <bibl>Velz, John W. “Sovereignty in the Digby <hi rend="italic">Mary Magdalene</hi>.” <hi rend="italic">Comparative Drama</hi> 2.1 (1968), 32–43.</bibl>
+ <bibl>Voaden, Rosalynn, ed. <hi rend="italic">Prophets Abroad: The Reception of Continental Holy Women in Late-Medieval England</hi>. Woodbridge: D. S. Brewer, 1996.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">God’s Words, Women’s Voices: The Discernment of Spirits in the Writing of Late-Medieval Woman Visionaries</hi>. Woodbridge: York Medieval Press, 1999.</bibl>
+ <bibl>Ward, Robin. <hi rend="italic">The World of the Medieval Shipmaster: Law, Business and the Sea, c.1350–c.1450</hi>. Woodbridge and Rochester, NY: Boydell Press, 2009.</bibl>
+ <bibl>Warren, Nancy Bradley. <hi rend="italic">Spiritual Economies: Female Monasticism in Later Medieval England</hi>. Philadelphia: University of Pennsylvania Press, 2001.</bibl>
+ <bibl>Waters, Claire M. <hi rend="italic">Angels and Earthly Creatures: Preaching, Performance, and Gender in the Later Middle Ages</hi>. Philadelphia: University of Pennsylvania Press, 2004.</bibl>
+ <bibl>Watson, Nicholas. <hi rend="italic">Richard Rolle and the Invention of Authority</hi>. Cambridge: Cambridge University Press, 1991.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Censorship and Cultural Change in Late-Medieval England: Vernacular Theology, the Oxford Translation Debate, and Arundel’s Constitutions of 1409.” <hi rend="italic">Speculum</hi> 70.4 (1995), 822–64.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Conceptions of the Word: The Mother Tongue and the Incarnation of God.” <hi rend="italic">New Medieval Literatures</hi> 1 (1997), 85–124.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Middle English Mystics.” In <hi rend="italic">The Cambridge History of Medieval English Literature</hi>. Ed. David Wallace. Cambridge: Cambridge University Press, 1999. Pp. 539–65.</bibl>
+ <bibl>Weigert, Laura. <hi rend="italic">French Visual Culture and the Making of Medieval Theater</hi>. Cambridge: Cambridge University Press, 2015.</bibl>
+ <bibl>Weimann, Robert. <hi rend="italic">Shakespeare and the Popular Tradition in the Theater: Studies in the Social Dimension of Dramatic Form and Function</hi>. Ed. Robert Shwartz. Baltimore, MD: Johns Hopkins University Press, 1978.</bibl>
+ <bibl>Wenzel, Siegfried. <hi rend="italic">The Sin of Sloth: Acedia in Medieval Thought and Literature</hi>. Chapel Hill: University of North Carolina Press, 1960.</bibl>
+ <bibl>White, Paul Whitfield, ed. <hi rend="italic">Reformation Biblical Drama in England, “The Life and Repentaunce of Mary Magdalene” and “The History of Iacob and Esau.”</hi> New York: Garland, 1992.</bibl>
+ <bibl>Whitehead, Christiania. <hi rend="italic">Castles of the Mind: A Study of Medieval Architectural Allegory</hi>. Cardiff: University of Wales Press, 2003.</bibl>
+ <bibl>Whiting, Bartlett Jere, and Helen Wescott Whiting. <hi rend="italic">Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500</hi>. Cambridge, MA: Belknap Press of Harvard University Press, 1968.</bibl>
+ <bibl>Wickham, Glynne. “The Staging of Saint Plays in England.” In <hi rend="italic">The Medieval Drama: Papers of the Third Annual Conference of the Center for Medieval and Early Renaissance Studies, State University of New York at Binghamton, 3–4 May 1969</hi>. Ed. Sandro Sticca. Albany: SUNY Press, 1972. Pp. 99–119.</bibl>
+ <bibl>Williams, Arnold. <hi rend="italic">The Characterization of Pilate in the Towneley Plays</hi>. East Lansing: Michigan State College Press, 1950.</bibl>
+ <bibl>Williams, Deanne. <hi rend="italic">The French Fetish from Chaucer to Shakespeare</hi>. Cambridge: Cambridge University Press, 2004.</bibl>
+ <bibl>Williams, Tara. <hi rend="italic">Inventing Womanhood: Gender and Language in Later Middle English Writing</hi>. Columbus: Ohio State University Press, 2011.</bibl>
+ <bibl>Winstead, Karen A. <hi rend="italic">John Capgrave’s Fifteenth Century</hi>. Philadelphia: University of Pennsylvania Press, 2007.</bibl>
+ <bibl>Wogan-Browne, Jocelyn. <hi rend="italic">Saints’ Lives and Women’s Literary Culture, c. 1150–1300: Virginity and Its Authorizations</hi>. Oxford: Oxford University Press, 2001.</bibl>
+ <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Analytic Survey 5: ‘Reading is Good Prayer’: Recent Research on Female Reading Communities.” <hi rend="italic">New Medieval Literatures</hi> 5 (2002), 229–97.</bibl>
+ <bibl>Womack, Peter. “Shakespeare and the Sea of Stories.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 29.1 (1999), 169–87.</bibl>
+ <bibl><hi rend="italic">The Worlde and the Chylde</hi>. Ed. Clifford Davidson and Peter Happé. Kalamazoo, MI: Medieval Institute Publications, 1999.</bibl>
+ <bibl>Wright, Robert. “Community Theatre in Late Medieval East Anglia.” <hi rend="italic">Theatre Notebook</hi> 28 (1974), 24–39.</bibl>
+ <bibl><hi rend="italic">The York Plays</hi>. Ed. Richard Beadle. London: Edward Arnold, 1982.</bibl>
+ <bibl>Young, Karl, ed. <hi rend="italic">The Drama of the Medieval Church</hi>. 2 vols. 1933; rpt. Oxford: Clarendon Press, 1962.</bibl>
+ <bibl>Zacher, Christian K. <hi rend="italic">Curiosity and Pilgrimage: The Literature of Discovery in Fourteenth-Century England</hi>. Baltimore, MD: Johns Hopkins University Press, 1976.</bibl>
+ <bibl>Zieman, Katherine. “Monasticism and the Public Contemplative in Late Medieval England: Richard Methley and His Spiritual Formation.” <hi rend="italic">Journal of Medieval and Early Modern Studies</hi> 42.3 (2012), 699–724.</bibl></listBibl>
+ </div></body></text></TEI>
